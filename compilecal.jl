@@ -21,6 +21,7 @@ Deadlines to note:
 
 
 - ✏️ Class preparation includes written preparation to be submitted the previous day by 3:00 pm
+- 🔬 In-class assessment
 - 📜  Portfolio assignment due
 
 
