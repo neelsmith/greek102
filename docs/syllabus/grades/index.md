@@ -50,7 +50,9 @@ The total points you can earn in this category is 12.
 
 ## In-class assessments
 
-In addition to written preparation, we will have regular in-class assessments. *Up to 10* of these will focus on vocabulary; *up to 8* will focus on features of language or grammar
+In addition to written preparation, we will have regular in-class assessments. *Up to 10* of these will focus on vocabulary; *up to 8* will focus on features of language or grammar.  
+
+> EXPLAIN THIS HERE
 
 
 
@@ -60,7 +62,7 @@ Throughout the year, you will participate in a weekly CBL lab.
 
 You will receive two grades for CBL lab work.
 
-- participation: ten CBL sections are scheduled to meet at Holy Cross.  You earn one point for each section you attend, for a possible total of 10.
+- participation: *up to 9* CBL sections are scheduled to meet at Holy Cross.  You earn one point for each section you attend, for a possible total of 9.
 - small group project: satisfactory completion of projects in 3 steps. Each step can earn 2 points, for a total possible of 6 points.
 
 
