@@ -30,20 +30,20 @@ Throughout the semester, we will set aside class meeting time to workshop drafts
 
 Each portfolio assignment earns one point for a complete submission on time, and a second point if it fulfills all the requirements for a satisfactory grade by the deadline for revisions. 
 
-Portfolio assignments may be revised as often as you like up to the deadline for revisions for each module. s
+Portfolio assignments may be revised as often as you like up to the deadline for revisions for each module. 
 
 The total points you can earn in this category is 18.
 
 
 
-##  Class preparation
+##  Written homework assignments
 
 
 The course schedule will include *up to 6*  brief written assignments as part of your routine class preparation.  Each assignment can earn up to two points: one point for a completed *submission* by the specified deadline, and a second point for a grade of *satisfactory*. 
 
 The specifications for these assignments are straightforward: a submission is satisfactory if all responses are correct; an error means that the assignment is not satisfactory. If you submit an assignment on time (earning one point), but have an error, you may resubmit a corrected version as often as you like up until the deadline for final revisions for that module. When a revised submission is satisfactory a second point will be recorded for that assignment.
 
-For written assignments, deadlines are *3:00 pm* the day *before* class.  
+For written assignments, deadlines for submission are *3:00 pm* the day *before* class.  
 
 The total points you can earn in this category is 12.
 
@@ -54,9 +54,9 @@ In addition to written preparation, we will have regular in-class assessments. *
 
 In-class assessments will always be announced ahead of time, and we will always do at least one practice version together at least one class before we have a graded in-class assessment.
 
-In-class assessments receive a grade of 0 or 1.  You earn a grade of 1 if all answers are correct.  You may retake these assessments as often as you like up until the deadline for retakes.  You may not retake an assessment that you have missed for an unexcused class absence.
+In-class assessments earn up to two points, one point for completing the assessment, and a second point if all answers are correct.  You may retake these assessments as often as you like up until the deadline for retakes.  You may not retake an assessment that you have missed for an unexcused class absence.
 
-The total points you can earn in this category are 10 for vocabulary assessments and 8 for language assessments.
+The total points you can earn in this category are 20 for vocabulary assessments and 16 for language assessments.
 
 
 ## CBL lab
@@ -72,18 +72,18 @@ You will receive two grades for CBL lab work.
 ## Determination of final course grade
 
 
-For each category except the CBL project, the preceding sections define the *maximum* number of assignments. If the daily course changes, and we have fewer than the maximum number of assignments, you will receive full credit for any dropped assignments. For example, if we have 7 in-class language assessments instead of the maximum of 8, you will receive 2 points for the omitted assignment; that plus your points on the seven completed assignments would be your total for the semester in the category of language assessments.
+For each category except the CBL project, the preceding sections define the *maximum* number of assignments. If the daily course schedule changes, and we have fewer than the maximum number of assignments, you will receive full credit for any dropped assignments. For example, if we have 7 in-class language assessments instead of the maximum of 8, you will receive 2 points for the omitted assignment; that plus your points on the seven completed assignments would be your total for the semester in the category of language assessments.
 
 Your course grade will be recorded from the following table.  In the row for each grade, the numbers in each column represent the minimum number of points required in that category.
 
-| Course grade |  Portfolio (18) | Homework (12) | Vocab. assessments (10) | Language assessments  (8) | CBL participation | CBL project |
+| Course grade |  Portfolio (18) | Homework (12) | Vocab. assessments (20) | Language assessments  (16) | CBL participation | CBL project |
 | --- | --- | --- | --- | --- |--- | --- |
-| A |17 | 12 | 9 |  8 | 9| 6 |
-| A- |17| 11 | 8 |  7 |  9 | 6 |
-| B+ | 16 | 10| 8 |7 | 8 | 6 |
-| B | 15 | 10 | 8 | 7 | 8 | 6 |
-| B- | 14 | 9 | 7  | 6 |8  | 6 |
-| C+ | 14  | 9 | 6  | 6| 6  | 6 |
-| C | 12 |  8  | 6 | 6 | 6 | 4 |
-| C- | 12 | 8 | 6 | 6 | 5 | 4 |
-| D | 10  | 6 | 5 | 4 | 5| 4 |
+| A |17 | 12 | 18 |  16 | 9| 6 |
+| A- |17| 11 | 16 |  15 |  9 | 6 |
+| B+ | 16 | 10| 16 | 14 | 8 | 6 |
+| B | 15 | 10 | 16 | 13 | 8 | 6 |
+| B- | 14 | 9 | 14 | 12 |8  | 6 |
+| C+ | 14  | 9 | 13  | 12| 6  | 6 |
+| C | 12 |  8  | 13 | 12 | 6 | 4 |
+| C- | 12 | 8 | 12 | 12 | 5 | 4 |
+| D | 10  | 6 | 10 | 8 | 5| 4 |
