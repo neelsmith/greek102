@@ -15,7 +15,7 @@ documentclass: "article"
 
 **Regular class meeting times**:  MWF 9:00-9:50, Fenwick 420.  CBL sections: Wednesday  6:00-6:50 pm, Thursday 8:00-8:50 am, in Fenwick 420.
 
-**Regular drop-in hours (S23)**:  Monday 12:00-1:00, Wednesday 12:30-2:00, Thursday, 12:00-2:00, in Fenwick 415, or anytime by appointment.
+**Regular drop-in hours (S23)**:  Wednesday 12:30-2:00, Thursday, 12:00-2:00, Friday 1:15-2:30, in Fenwick 415, or anytime by appointment.
 
 **Manuscripts, Inscriptions and Documents Club**:  Friday, 2:00 pm - ?, fourth floor of Fenwick Hall.
 
@@ -109,13 +109,13 @@ Portfolio assignments may be revised as often as you like up to the deadline for
 
 The total points you can earn in this category is 18.
 
-## Class preparation
+## Written homework assignments
 
 The course schedule will include *up to 6*  brief written assignments as part of your routine class preparation.  Each assignment can earn up to two points: one point for a completed *submission* by the specified deadline, and a second point for a grade of *satisfactory*.
 
 The specifications for these assignments are straightforward: a submission is satisfactory if all responses are correct; an error means that the assignment is not satisfactory. If you submit an assignment on time (earning one point), but have an error, you may resubmit a corrected version as often as you like up until the deadline for final revisions for that module. When a revised submission is satisfactory a second point will be recorded for that assignment.
 
-For written assignments, deadlines are *3:00 pm* the day *before* class.
+For written assignments, deadlines for submission are *3:00 pm* the day *before* class.
 
 The total points you can earn in this category is 12.
 
@@ -140,7 +140,7 @@ You will receive two grades for CBL lab work.
 
 ## Determination of final course grade
 
-For each category except the CBL project, the preceding sections define the *maximum* number of assignments. If the daily course changes, and we have fewer than the maximum number of assignments, you will receive full credit for any dropped assignments. For example, if we have 7 in-class language assessments instead of the maximum of 8, you will receive 2 points for the omitted assignment; that plus your points on the seven completed assignments would be your total for the semester in the category of language assessments.
+For each category except the CBL project, the preceding sections define the *maximum* number of assignments. If the daily course schedule changes, and we have fewer than the maximum number of assignments, you will receive full credit for any dropped assignments. For example, if we have 7 in-class language assessments instead of the maximum of 8, you will receive 2 points for the omitted assignment; that plus your points on the seven completed assignments would be your total for the semester in the category of language assessments.
 
 Your course grade will be recorded from the following table.  In the row for each grade, the numbers in each column represent the minimum number of points required in that category.
 
