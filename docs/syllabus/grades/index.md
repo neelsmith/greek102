@@ -72,7 +72,7 @@ You will receive two grades for CBL lab work.
 ## Determination of final course grade
 
 
-For each category except the CBL project, the preceding sections define the *maximum* number of assignments. If the daily course changes, and we have fewer than the maximum number of assignments, you will receive full credit for any dropped assignments. For example, if we have 7 in-class language assessments instead of the maximum of 8, you will receive 2 points for the omitted assignment; that plus your points on the seven completed assignments would be your total for the semester in the category of language assessments.
+For each category except the CBL project, the preceding sections define the *maximum* number of assignments. If the daily course schedule changes, and we have fewer than the maximum number of assignments, you will receive full credit for any dropped assignments. For example, if we have 7 in-class language assessments instead of the maximum of 8, you will receive 2 points for the omitted assignment; that plus your points on the seven completed assignments would be your total for the semester in the category of language assessments.
 
 Your course grade will be recorded from the following table.  In the row for each grade, the numbers in each column represent the minimum number of points required in that category.
 
