@@ -3,8 +3,8 @@
 
 
 *no classes*
-Welcome back!
-class
+[Welcome back](../assignments/welcome/)!
+✏️ [Verbal expressions](../assignments/verbalexpressions/)
 
 ## Subordinate clauses
 

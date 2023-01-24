@@ -1,5 +1,5 @@
 ---
-title: "Schedule"
+title: "Daily schedule"
 layout: page
 nav_order: 1
 has_children: true
@@ -9,10 +9,9 @@ has_children: true
 Deadlines to note:
 
 
-- ✏️ Class preparation includes written preparation to be submitted the previous day by 5:00 pm
-- 🗣️ Deadline for completing oral assignment in individual meeting outside of class
+- ✏️ Class preparation includes written preparation to be submitted the previous day by 3:00 pm
 - 📜  Portfolio assignment due
-- ⚠️ Last day to revise submissions for a course module
+
 
 
 
@@ -21,7 +20,7 @@ Deadlines to note:
 
 | Dates | Monday | Wednesday | Friday | Notes |
 | ---: | :--- | :--- | :--- | :--- |
-| *Jan 23*, *Jan 25*, *Jan 27* | *no classes* | Welcome back! | class | **Mon**: *No classes.* |
+| *Jan 23*, *Jan 25*, *Jan 27* | *no classes* | [Welcome back](../assignments/welcome/)! | ✏️ [Verbal expressions](../assignments/verbalexpressions/) | **Mon**: *No classes.* |
 
 ## Subordinate clauses
 
