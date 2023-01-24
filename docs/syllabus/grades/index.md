@@ -30,7 +30,7 @@ Throughout the semester, we will set aside class meeting time to workshop drafts
 
 Each portfolio assignment earns one point for a complete submission on time, and a second point if it fulfills all the requirements for a satisfactory grade by the deadline for revisions. 
 
-Portfolio assignments may be revised as often as you like up to the deadline for revisions for each module. 
+Portfolio assignments may be revised as often as you like up to the deadline for revisions for each module. s
 
 The total points you can earn in this category is 18.
 
@@ -52,8 +52,11 @@ The total points you can earn in this category is 12.
 
 In addition to written preparation, we will have regular in-class assessments. *Up to 10* of these will focus on vocabulary; *up to 8* will focus on features of language or grammar.  
 
-> EXPLAIN THIS HERE
+In-class assessments will always be announced ahead of time, and we will always do at least one practice version together at least one class before we have a graded in-class assessment.
 
+In-class assessments receive a grade of 0 or 1.  You earn a grade of 1 if all answers are correct.  You may retake these assessments as often as you like up until the deadline for retakes.  You may not retake an assessment that you have missed for an unexcused class absence.
+
+The total points you can earn in this category are 10 for vocabulary assessments and 8 for language assessments.
 
 
 ## CBL lab
