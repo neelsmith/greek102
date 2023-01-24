@@ -30,20 +30,20 @@ Throughout the semester, we will set aside class meeting time to workshop drafts
 
 Each portfolio assignment earns one point for a complete submission on time, and a second point if it fulfills all the requirements for a satisfactory grade by the deadline for revisions. 
 
-Portfolio assignments may be revised as often as you like up to the deadline for revisions for each module. s
+Portfolio assignments may be revised as often as you like up to the deadline for revisions for each module.
 
 The total points you can earn in this category is 18.
 
 
 
-##  Class preparation
+##  Written homework assignments
 
 
 The course schedule will include *up to 6*  brief written assignments as part of your routine class preparation.  Each assignment can earn up to two points: one point for a completed *submission* by the specified deadline, and a second point for a grade of *satisfactory*. 
 
 The specifications for these assignments are straightforward: a submission is satisfactory if all responses are correct; an error means that the assignment is not satisfactory. If you submit an assignment on time (earning one point), but have an error, you may resubmit a corrected version as often as you like up until the deadline for final revisions for that module. When a revised submission is satisfactory a second point will be recorded for that assignment.
 
-For written assignments, deadlines are *3:00 pm* the day *before* class.  
+For written assignments, deadlines for submission are *3:00 pm* the day *before* class.  
 
 The total points you can earn in this category is 12.
 
@@ -54,9 +54,9 @@ In addition to written preparation, we will have regular in-class assessments. *
 
 In-class assessments will always be announced ahead of time, and we will always do at least one practice version together at least one class before we have a graded in-class assessment.
 
-In-class assessments receive a grade of 0 or 1.  You earn a grade of 1 if all answers are correct.  You may retake these assessments as often as you like up until the deadline for retakes.  You may not retake an assessment that you have missed for an unexcused class absence.
+In-class assessments receive a grade of 1 or 2.  You earn 1 point for completing the assessment, and a second point for completing all questions satisfactorily. You may retake these assessments as often as you like up until the deadline for retakes.  You may not retake an assessment that you have missed for an unexcused class absence.
 
-The total points you can earn in this category are 10 for vocabulary assessments and 8 for language assessments.
+The total points you can earn in this category are 20 for vocabulary assessments and 16 for language assessments.
 
 
 ## CBL lab
