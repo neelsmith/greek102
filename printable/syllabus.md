@@ -104,7 +104,7 @@ Throughout the semester, we will set aside class meeting time to workshop drafts
 
 Each portfolio assignment earns one point for a complete submission on time, and a second point if it fulfills all the requirements for a satisfactory grade by the deadline for revisions.
 
-Portfolio assignments may be revised as often as you like up to the deadline for revisions for each module.
+Portfolio assignments may be revised as often as you like up to the deadline for revisions for each module. s
 
 The total points you can earn in this category is 18.
 
@@ -120,7 +120,13 @@ The total points you can earn in this category is 12.
 
 ## In-class assessments
 
-In addition to written preparation, we will have regular in-class assessments. *Up to 10* of these will focus on vocabulary; *up to 8* will focus on features of language or grammar
+In addition to written preparation, we will have regular in-class assessments. *Up to 10* of these will focus on vocabulary; *up to 8* will focus on features of language or grammar.
+
+In-class assessments will always be announced ahead of time, and we will always do at least one practice version together at least one class before we have a graded in-class assessment.
+
+In-class assessments receive a grade of 0 or 1.  You earn a grade of 1 if all answers are correct.  You may retake these assessments as often as you like up until the deadline for retakes.  You may not retake an assessment that you have missed for an unexcused class absence.
+
+The total points you can earn in this category are 10 for vocabulary assessments and 8 for language assessments.
 
 ## CBL lab
 
@@ -128,7 +134,7 @@ Throughout the year, you will participate in a weekly CBL lab.
 
 You will receive two grades for CBL lab work.
 
-  - participation: ten CBL sections are scheduled to meet at Holy Cross.  You earn one point for each section you attend, for a possible total of 10.
+  - participation: *up to 9* CBL sections are scheduled to meet at Holy Cross.  You earn one point for each section you attend, for a possible total of 9.
   - small group project: satisfactory completion of projects in 3 steps. Each step can earn 2 points, for a total possible of 6 points.
 
 ## Determination of final course grade
@@ -164,9 +170,9 @@ If you are experiencing symptoms of a communicable disease, please let me know a
 
 ## Masking and testing
 
-It is impossible to foresee how the ongoing global pandemic will develop this semester, and we continue to teach and learn in ways we did not anticipate. We will monitor the spread of the virus and re-evaluate our masking practices periodically throughout the semester.
+It is impossible to foresee how COVID and other viral diseases will develop this semester, and we continue to teach and learn in ways we did not anticipate. We will monitor the spread of communicable diseases and re-evaluate our masking practices periodically throughout the semester.
 
-Because even a "mild" case can have serious consequences for at-risk populations,  as the semester begins, medical-grade or better masks are required in class and in drop-in hours until further notice.
+Because even a "mild" case can have serious consequences for at-risk populations, as the semester begins, medical-grade or better masks are required in class and in drop-in hours until further notice.
 
 Masking is equally uncomfortable for us all, but feeling unsafe creates a poor learning environment so please do your part. Please continue to proactively monitor, test, and isolate at the onset of COVID-19 symptoms and close contact with any individuals with known infections. We will continue to closely monitor viral surges and current College recommendations in regards to COVID-19 and any other infectious diseases (e.g., monkeypox) that might emerge as we move through the semester.
 
