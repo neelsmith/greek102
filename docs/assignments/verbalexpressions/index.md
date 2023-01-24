@@ -20,5 +20,5 @@ You saw a version of section 15 of Lysias 1 last semester. Look at the c(complic
 
 ## In-class assessment
 
-In today's class, we will have a brief language assessment.  You will be asked to provide all forms (GCN) for the phrase, τὸ κακὸν πρᾶγμα.
+In today's class, we will have a brief language assessment asking you to provide all forms for the phrase, τὸ κακὸν πρᾶγμα.
 
