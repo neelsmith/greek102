@@ -17,14 +17,24 @@ Deadlines to note:
 
 
 
-## Review
+## Welcome back!
 
 | Dates | Monday | Wednesday | Friday | Notes |
 | ---: | :--- | :--- | :--- | :--- |
-| *Jan 23*, *Jan 25*, *Jan 27* | *no classes* | class | class | **Mon**: *No classes.* |
+| *Jan 23*, *Jan 25*, *Jan 27* | *no classes* | Welcome back! | class | **Mon**: *No classes.* |
+
+## Subordinate clauses
+
+| Dates | Monday | Wednesday | Friday | Notes |
+| ---: | :--- | :--- | :--- | :--- |
 | *Jan 30*, *Feb 1*, *Feb 3* | class | class | class |  |
 | *Feb 6*, *Feb 8*, *Feb 10* | class | class | class |  |
 | *Feb 13*, *Feb 15*, *Feb 17* | class | class | class |  |
+
+## Indirect speech
+
+| Dates | Monday | Wednesday | Friday | Notes |
+| ---: | :--- | :--- | :--- | :--- |
 | *Feb 20*, *Feb 22*, *Feb 24* | class | class | class |  |
 | *Feb 27*, *Mar 1*, *Mar 3* | class | class | *No class* | **Fri**: *Last class before spring break.* |
 | *Mar 6*, *Mar 8*, *Mar 10* | ***spring break*** | ***spring break*** | ***spring break*** |  |
@@ -32,6 +42,11 @@ Deadlines to note:
 | *Mar 20*, *Mar 22*, *Mar 24* | class | class | class |  |
 | *Mar 27*, *Mar 29*, *Mar 31* | class | class | class |  |
 | *Apr 3*, *Apr 5*, *Apr 7* | class | class | *Easter break* | **Wed**: *Last class before Easter break.* |
+
+## Reading Greek
+
+| Dates | Monday | Wednesday | Friday | Notes |
+| ---: | :--- | :--- | :--- | :--- |
 | *Apr 10*, *Apr 12*, *Apr 14* | *Easter break* | class | class | **Tue**: *Classes resume.* |
 | *Apr 17*, *Apr 19*, *Apr 21* | class | class | class |  |
 | *Apr 24*, *Apr 26*, *Apr 28* | class | *no class: Academic Conference* | class | **Wed**: *Academic conference.* |
