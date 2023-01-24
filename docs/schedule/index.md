@@ -27,8 +27,8 @@ Deadlines to note:
 
 | Dates | Monday | Wednesday | Friday | Notes |
 | ---: | :--- | :--- | :--- | :--- |
-| *Jan 30*, *Feb 1*, *Feb 3* | class | class | class |  |
-| *Feb 6*, *Feb 8*, *Feb 10* | class | class | class |  |
+| *Jan 30*, *Feb 1*, *Feb 3* | Indicative clauses | 🔬 The relative pronoun | 🔬 Attributive participles |  |
+| *Feb 6*, *Feb 8*, *Feb 10* | Relative clauses | The optative | ✏️ Sequence of tenses; purpose |  |
 | *Feb 13*, *Feb 15*, *Feb 17* | class | class | class |  |
 
 ## Indirect speech
