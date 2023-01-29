@@ -4,14 +4,19 @@
 
 *no classes*
 [Welcome back](../assignments/welcome/)!
-🔬 [Verbal expressions](../assignments/verbalexpressions/)
+[Verbal expressions](../assignments/verbalexpressions/)
+
+🔬 [Participle](../assignments/participles/) formation
+✏️ Circumstantial [participles](../assignments/circumstantial/)
+🔬 Indicative [clauses](../assignments/clauses1/)
+
+
 
 ## Subordinate clauses
 
-Indicative clauses
-🔬 The relative pronoun
-🔬 Attributive participles
-
+class
+The relative pronoun
+Attributive participles
 
 
 
@@ -20,9 +25,7 @@ The optative
 ✏️ Sequence of tenses; purpose
 
 
-class
-class
-class
+
 
 
 ## Indirect speech
