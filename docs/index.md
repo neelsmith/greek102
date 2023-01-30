@@ -24,7 +24,7 @@ has_children: true
 
 ### MWF classes
 
-We review the declension of substantives, and the types of verbal expression we encountered in Greek 101.
+We review the forms and use of participles, and compare participles with subordinate clauses using the indicative mood.
 
 ### CBL
 For your first CBL meeting, please read this [introduction to the Athenian legal system](https://www.stoa.org/demos/article_intro_legal_system@page=all&greekEncoding=UnicodeC.html), and reread one or both translations of Lysias 1 in your textbook. (You can further resources on Athenian democracy on the ["Dēmos" web site](https://www.stoa.org/demos/).)
