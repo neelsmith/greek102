@@ -25,8 +25,8 @@ accusative
 
 ## Due dates
 
-- graded in-class assessment: Friday, Jan. 27
-- deadline for retakes: 3:00 pm, Friday, Feb. 3
+- graded in-class assessment: Mon., Jan. 30
+- deadline for retakes: 3:00 pm, Friday, Feb. 10
 
 
 
