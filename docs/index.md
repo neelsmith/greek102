@@ -14,8 +14,9 @@ has_children: true
 ## Announcements and reminders
 
 - CBL begins!
-- In-class assessment on Monday, Jan. 30: decline τὸ κακὸν πρᾶμα. Deadline for retaking: 3:00 pm, Friday, Feb. 10.
+- In-class assessment on Monday, Jan. 30: decline τὸ κακὸν πρᾶγμα. Deadline for retaking: 3:00 pm, Friday, Feb. 10.
 - In-class assessment on Friday, Feb. 3: principal parts of first 8 verbs in [this review list](https://hellenike.github.io/textbook/review/module1-review/vocabulary). Deadline for retaking: 3:00 pm, Friday, Feb. 17.
+- Note on schedule: no class on March 3.
 
 
 
