@@ -22,13 +22,13 @@ Deadlines to note:
 | Dates | Monday | Wednesday | Friday | Notes |
 | ---: | :--- | :--- | :--- | :--- |
 | *Jan 23*, *Jan 25*, *Jan 27* | *no classes* | [Welcome back](../assignments/welcome/)! | [Verbal expressions](../assignments/verbalexpressions/) | **Mon**: *No classes.* |
-| *Jan 30*, *Feb 1*, *Feb 3* | 🔬 [Participle](../assignments/participles/) formation | ✏️ Circumstantial [participles](../assignments/circumstantial/) | 🔬 Indicative [clauses](../assignments/clauses1/) |  |
+| *Jan 30*, *Feb 1*, *Feb 3* | 🔬 [Participle](../assignments/participles/) formation | ✏️ Circumstantial [participles](../assignments/circumstantial/) | Indicative [clauses](../assignments/clauses1/) |  |
 
 ## Subordinate clauses
 
 | Dates | Monday | Wednesday | Friday | Notes |
 | ---: | :--- | :--- | :--- | :--- |
-| *Feb 6*, *Feb 8*, *Feb 10* | class | The relative pronoun | Attributive participles |  |
+| *Feb 6*, *Feb 8*, *Feb 10* | 🔬 The [relative pronoun](../assignments/relative/) | class | Attributive participles |  |
 | *Feb 13*, *Feb 15*, *Feb 17* | Relative clauses | The optative | ✏️ Sequence of tenses; purpose |  |
 
 ## Indirect speech
