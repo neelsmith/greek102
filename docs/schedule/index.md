@@ -28,8 +28,8 @@ Deadlines to note:
 
 | Dates | Monday | Wednesday | Friday | Notes |
 | ---: | :--- | :--- | :--- | :--- |
-| *Feb 6*, *Feb 8*, *Feb 10* | The [relative pronoun](../assignments/relative/) | 🔬  [Practice](../assignments/relpractice/) with the relative pronoun | The future participle |  |
-| *Feb 13*, *Feb 15*, *Feb 17* | The optative | ✏️ Sequence of moods | Expressing purpose |  |
+| *Feb 6*, *Feb 8*, *Feb 10* | The [relative pronoun](../assignments/relative/) | 🔬  [Practice](../assignments/relpractice/) with the relative pronoun | The [future participle](../assignments/futureparticiple/) |  |
+| *Feb 13*, *Feb 15*, *Feb 17* | The [optative](../assignments/optative/) | ✏️ Sequence of moods | Expressing purpose |  |
 
 ## Indirect speech
 
