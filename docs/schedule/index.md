@@ -29,24 +29,19 @@ Deadlines to note:
 | Dates | Monday | Wednesday | Friday | Notes |
 | ---: | :--- | :--- | :--- | :--- |
 | *Feb 6*, *Feb 8*, *Feb 10* | The [relative pronoun](../assignments/relative/) | 🔬  [Practice](../assignments/relpractice/) with the relative pronoun | The [future participle](../assignments/futureparticiple/) |  |
-| *Feb 13*, *Feb 15*, *Feb 17* | class cancelled | The [optative](../assignments/optative/) | ✏️ Sequence of moods |  |
+| *Feb 13*, *Feb 15*, *Feb 17* | class cancelled | The [optative](../assignments/optative/) | Sequence of moods and purpose |  |
 
 ## Indirect speech
 
 | Dates | Monday | Wednesday | Friday | Notes |
 | ---: | :--- | :--- | :--- | :--- |
-| *Feb 20*, *Feb 22*, *Feb 24* | Expressing purpose | class | class |  |
-| *Feb 27*, *Mar 1*, *Mar 3* | class | class | *No class* | **Fri**: *Last class before spring break.* |
-| *Mar 6*, *Mar 8*, *Mar 10* | ***spring break*** | ***spring break*** | ***spring break*** |  |
+| *Feb 20*, *Feb 22*, *Feb 24* | [Interrogative](../assignments/interrogative/) pronouns and indirect questions | Review of verb forms | Reading and analysis workshop |  |
+| *Feb 27*, *Mar 1*, *Mar 3* | Composition workshop | *No class* | ***spring break*** | **Fri**: *Last class before spring break.* |
+| *Mar 6*, *Mar 8*, *Mar 10* | ***spring break*** | ***spring break*** | class |  |
 | *Mar 13*, *Mar 15*, *Mar 17* | class | class | class | **Mon**: *Classes resume.* |
 | *Mar 20*, *Mar 22*, *Mar 24* | class | class | class |  |
 | *Mar 27*, *Mar 29*, *Mar 31* | class | class | class |  |
-| *Apr 3*, *Apr 5*, *Apr 7* | class | class | *Easter break* | **Wed**: *Last class before Easter break.* |
-
-## Reading Greek
-
-| Dates | Monday | Wednesday | Friday | Notes |
-| ---: | :--- | :--- | :--- | :--- |
+| *Apr 3*, *Apr 5*, *Apr 7* | class | *Easter break* |  | **Wed**: *Last class before Easter break.* **Fri**. ** |
 | *Apr 10*, *Apr 12*, *Apr 14* | *Easter break* | class | class | **Tue**: *Classes resume.* |
 | *Apr 17*, *Apr 19*, *Apr 21* | class | class | class |  |
 | *Apr 24*, *Apr 26*, *Apr 28* | class | *no class: Academic Conference* | class | **Wed**: *Academic conference.* |

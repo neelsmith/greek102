@@ -23,7 +23,7 @@ The [future participle](../assignments/futureparticiple/)
 
 class cancelled
 The [optative](../assignments/optative/)
-Sequence of moods
+Sequence of moods and purpose
 
 
 
@@ -31,11 +31,9 @@ Sequence of moods
 
 ## Indirect speech
 
-✏️ Expressing purpose
-Interrogative pronouns and indirect questions
-class
 
-
+[Interrogative](../assignments/interrogative/) pronouns and indirect questions
+Review of verb forms
 
 
 Reading and analysis workshop
