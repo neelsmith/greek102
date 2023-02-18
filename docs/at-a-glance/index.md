@@ -8,6 +8,18 @@ nav_order: 6
 
 
 
+## Week at a glance:  Feb. 6 - Feb. 10
+
+### MWF classes
+
+We introduce the relative pronoun, and the future participle.
+
+### CBL
+
+[Full CBL schedule](../cbl/) now available.
+
+
+
 
 ## Week at a glance: Jan. 30 - Feb. 3
 
@@ -16,6 +28,7 @@ nav_order: 6
 We review the forms and use of participles, and compare participles with subordinate clauses using the indicative mood.
 
 ### CBL
+
 For your first CBL meeting, please read this [introduction to the Athenian legal system](https://www.stoa.org/demos/article_intro_legal_system@page=all&greekEncoding=UnicodeC.html), and reread one or both translations of Lysias 1 in your textbook. (You can further resources on Athenian democracy on the ["Dēmos" web site](https://www.stoa.org/demos/).)
 
 What can we learn about the Athenian legal system from reading Lysias 1?
