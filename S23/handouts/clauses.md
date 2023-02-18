@@ -6,3 +6,6 @@ An indicative clause:
 ἐπίστευε ἤδη καὶ πάντα τὰ αὐτοῦ ἐκείνῃ παρέδωκε.
 
 
+A future participle expressing purpose:
+
+ἡ γυνὴ ἀπῄει κάτω **καθευδήσουσα**

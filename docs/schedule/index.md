@@ -29,13 +29,13 @@ Deadlines to note:
 | Dates | Monday | Wednesday | Friday | Notes |
 | ---: | :--- | :--- | :--- | :--- |
 | *Feb 6*, *Feb 8*, *Feb 10* | The [relative pronoun](../assignments/relative/) | 🔬  [Practice](../assignments/relpractice/) with the relative pronoun | The [future participle](../assignments/futureparticiple/) |  |
-| *Feb 13*, *Feb 15*, *Feb 17* | The [optative](../assignments/optative/) | ✏️ Sequence of moods | Expressing purpose |  |
+| *Feb 13*, *Feb 15*, *Feb 17* | class cancelled | The [optative](../assignments/optative/) | ✏️ Sequence of moods |  |
 
 ## Indirect speech
 
 | Dates | Monday | Wednesday | Friday | Notes |
 | ---: | :--- | :--- | :--- | :--- |
-| *Feb 20*, *Feb 22*, *Feb 24* | class | class | class |  |
+| *Feb 20*, *Feb 22*, *Feb 24* | Expressing purpose | class | class |  |
 | *Feb 27*, *Mar 1*, *Mar 3* | class | class | *No class* | **Fri**: *Last class before spring break.* |
 | *Mar 6*, *Mar 8*, *Mar 10* | ***spring break*** | ***spring break*** | ***spring break*** |  |
 | *Mar 13*, *Mar 15*, *Mar 17* | class | class | class | **Mon**: *Classes resume.* |
