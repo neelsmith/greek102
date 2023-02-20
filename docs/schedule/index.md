@@ -35,7 +35,7 @@ Deadlines to note:
 
 | Dates | Monday | Wednesday | Friday | Notes |
 | ---: | :--- | :--- | :--- | :--- |
-| *Feb 20*, *Feb 22*, *Feb 24* | [Interrogative](../assignments/interrogative/) pronouns and indirect questions | [Review](../assignments/verbreview/) of verb forms | Reading and analysis workshop |  |
+| *Feb 20*, *Feb 22*, *Feb 24* | [Interrogative](../assignments/interrogative/) pronouns and indirect questions | ✏️ [Review](../assignments/verbreview/) of verb forms | Reading and analysis workshop |  |
 | *Feb 27*, *Mar 1*, *Mar 3* | Composition workshop | *No class* | ***spring break*** | **Fri**: *Last class before spring break.* |
 | *Mar 6*, *Mar 8*, *Mar 10* | ***spring break*** | ***spring break*** | class |  |
 | *Mar 13*, *Mar 15*, *Mar 17* | class | class | class | **Mon**: *Classes resume.* |
