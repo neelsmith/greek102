@@ -13,7 +13,7 @@ totalWeeks =  14
 
 fixedDates = [
   ["2023-01-23", "No classes."],
-  ["2023-03-03",  "Last class before spring break."],
+  ["2023-03-03",  "No class."],
   ["2023-03-13",  "Classes resume."],
   ["2023-04-05",  "Last class before Easter break."],
   ["2023-04-11",  "Classes resume."],
