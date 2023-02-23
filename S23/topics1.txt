@@ -38,7 +38,7 @@ Introduction to [reading assignment](../assignments/grammar1/) 1
 
 
 Reading and analysis [workshop](../assignments/reading1/)
-Composition 1 workshop
+Composition 1 [workshop](../assignments/composition1/)
 
 *No class*
 

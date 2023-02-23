@@ -1,5 +1,7 @@
 
 
+### In-class assessment
+
 Please fully identify the following verb forms (PNTMV):
 
 - τύχοι
@@ -11,8 +13,10 @@ Please fully identify the following verb forms (PNTMV):
 - πραχθείη
 - ἐλέχθη
 - ἐπράττετο
-- πράξοι
+- πράξαι
 
 
 
-> *Due date:  Wed., Feb. 22; last date to retake: Wed., Mar. 1
+
+
+> *Due date:  Wed., Feb. 22; last date to retake: Wed., Mar. 1*

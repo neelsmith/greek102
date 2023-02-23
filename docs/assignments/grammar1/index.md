@@ -41,7 +41,7 @@ Using the supplementary vocabulary list below, fully identify the following fini
 
 - ἀναμιμνήσκω, ἀναμνήσω, ἀνέμνησα, -, -,  ἀνεμνήσθην: "call to mind, remind"; middle, "recall, remember"
 - ἀπαλλάττω, ἀπαλλάξω, ἀπήλλαξα, -, -, ἀπηλλάχθην or ἀπηλλάγην: active, "release"; middle or passive, "depart, leave"
-- ἀποκλείω, ἀποκλείσω, ἀπέκλεισα, -, -, ἀπεκλῄσθη: "shut, close"
+- ἀποκλείω, ἀποκλείσω, ἀπέκλεισα, -, -, ἀπεκλῄσθη: "shut in, lock in"
 - διαφθείρω, διαφθερῶ, διέφθειρα, -, -, διεφθάρην:  "corrupt, destroy"
 - ἐπιτηρέω (regular): "look out for, keep an eye on"
 - εὑρίσκω, εὑρήσω, ηὗρον or εὗρον, -, -, εὑρέθην: "find, discover"

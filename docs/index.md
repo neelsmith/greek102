@@ -13,7 +13,7 @@ has_children: true
 
 - Portfolio assignment: [grammatical analysis 1](./assignments/grammar1/): due Monday, Feb. 27; last date for revision: Friday, Mar. 17.
 - [Reading and analysis](./assignments/reading1/) assignment 1: due Wednesday, Mar. 1; last date for revision: Monday, Mar. 20.
-- Composition assignment 1: due Wednesday, Mar. 1; last date for revision: Monday, Mar. 20.
+- [Composition](./assignments/composition1/) assignment 1: due Wednesday, Mar. 1; last date for revision: Monday, Mar. 20.
 - Review sheet: the future participle (TBA)
 - Review sheet: two ways to express purpose (TBA)
 
