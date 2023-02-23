@@ -32,3 +32,13 @@ Using the supplementary vocabulary list below in addition to the verb list for y
 
 **Vocabulary**
 
+
+- αἴτιον, αἰτίου, τό: "reason, cause"
+- αὔλειος, ον: (2-ending adj.) "belonging to the court yard (αὐλή)"; the αὔλειος θύρα is the door connecting the court yard (αὐλή) to the outside, the outside or house door.
+- ἕως: conjunction, "until"
+- ἐγγὺς: adv., "near, nearby"
+- θύρα, θύρας, ἡ : "door"
+- μέταυλος, ον: (2-ending adj.): "belonging to the inner court"; the μέταυλος θύρα is the door connecting the courtyard (αὐλή) to the interior of the house
+- μόνον: neuter accusative singular of μόνος, μόνη, μόνον used adverbially, "only"
+- οὐδέποτε: adv., "never"
+- οὐκέτι: adv., "no longer"
