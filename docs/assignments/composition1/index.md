@@ -9,8 +9,7 @@ nav_order: 122
 # Composition 1
 
 
-
-Compose a brief composition according to the following instructions.
+Using the vocabulary glosses for your previous grammatical analysis and reading assignment, compose a brief composition according to the following instructions.
 
 1. All sentences should be coordinated: you should have no cases of  *asyndeton*.
 2. Use at least three participles.
@@ -29,4 +28,7 @@ You composition should express the following ideas.  For clarity, the instructio
 
 
 **Glosses**
+
+- γείτων, ονος, ὁ, ἡ : "neighbor"
+- ἐνάπτω, ἐνήψω, ἐνῆψα, -, -, ἐνήφθην : "kindle, set on fire"; middle voice, "get a light"
 
