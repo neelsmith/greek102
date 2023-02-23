@@ -22,4 +22,13 @@ nav_order: 120
 
 ## Syntax
 
-Break up each sentence in the reading selection into *verbal expressions* (complete subject/verb ideas).  Place each verbal expression on a separate line, and circle the verb.
+1. Break up each sentence in the reading selection into *verbal expressions* (complete subject/verb ideas).  Place each verbal expression on a separate line, and circle the verb.
+2. For all *finite* verb forms, explain the choice of mood.
+
+## Translation
+
+Using the supplementary vocabulary list below in addition to the verb list for your previous grammatical analysis assignment, please translate the above passage into idiomatic English.
+
+
+**Vocabulary**
+
