@@ -36,12 +36,17 @@ Deadlines to note:
 | Dates | Monday | Wednesday | Friday | Notes |
 | ---: | :--- | :--- | :--- | :--- |
 | *Feb 20*, *Feb 22*, *Feb 24* | [Interrogative](../assignments/interrogative/) pronouns and indirect questions | ✏️ [Review](../assignments/verbreview/) of verb forms | Introduction to [reading assignment](../assignments/grammar1/) 1 |  |
-| *Feb 27*, *Mar 1*, *Mar 3* | Reading and analysis [workshop](../assignments/reading1/) | Composition 1 workshop | *No class* | **Fri**: *No class.* |
+| *Feb 27*, *Mar 1*, *Mar 3* | Reading and analysis [workshop](../assignments/reading1/) | Composition 1 [workshop](../assignments/composition1/) | *No class* | **Fri**: *No class.* |
 | *Mar 6*, *Mar 8*, *Mar 10* | ***spring break*** | ***spring break*** | ***spring break*** |  |
-| *Mar 13*, *Mar 15*, *Mar 17* | class | class | class | **Mon**: *Classes resume.* |
+| *Mar 13*, *Mar 15*, *Mar 17* | Review portfolio 1 [composition](../assignments/composition1/) | The [infinitive](../assignments/infinitive/) | [Indirect](../assignments/indirect/) speech | **Mon**: *Classes resume.* |
 | *Mar 20*, *Mar 22*, *Mar 24* | class | class | class |  |
 | *Mar 27*, *Mar 29*, *Mar 31* | class | class | class |  |
-| *Apr 3*, *Apr 5*, *Apr 7* | class | *Easter break* |  | **Wed**: *Last class before Easter break.* **Fri**. ** |
+| *Apr 3*, *Apr 5*, *Apr 7* | class | class | *Easter break* | **Wed**: *Last class before Easter break.* |
+
+## Reading Greek
+
+| Dates | Monday | Wednesday | Friday | Notes |
+| ---: | :--- | :--- | :--- | :--- |
 | *Apr 10*, *Apr 12*, *Apr 14* | *Easter break* | class | class | **Tue**: *Classes resume.* |
 | *Apr 17*, *Apr 19*, *Apr 21* | class | class | class |  |
 | *Apr 24*, *Apr 26*, *Apr 28* | class | *no class: Academic Conference* | class | **Wed**: *Academic conference.* |
