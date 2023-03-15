@@ -14,7 +14,15 @@ has_children: true
 - Portfolio assignment: [grammatical analysis 1](./assignments/grammar1/)
 - [Reading and analysis](./assignments/reading1/) assignment 1
 - [Composition](./assignments/composition1/) assignment 1
+- Monday, **Mar. 20**: vocabulary assessment on verbs from Friday's homework introducing indirect speech:
 
+    - δείκνυμι, δείξω, ἔδειξα δέδειχα, δέδειγμαι, ἐδείχθην show, demonstrate
+    - ἡγέομαι, ἡγήσομαι, ἡγησάμην, —, ἥγημαι, ἡγήθην think, consider, believe
+    - λέγω, λέξω, ἔλεξα or εἶπον, εἴρηκα, λέλεγμαι, ἐλέχθην say, speak, tell
+    - ὁράω, ὄψομαι, εἶδον, ἑώρακα or ἑόρακα, ἑώραμαι or ὦμμαι, ὤφθην see, look, understand
+    - φημί, φήσω, ἔφησα, —, —, — say, assert, affirm
+    - ἀκούω, ἀκούσομαι, ἤκουσα, ἀκήκοα, — , ἠκούσθην hear, listen to
+    - νομίζω, νομιῶ, ἐνόμισα, νενόμικα, νενόμισμαι, ἐνομίσθην think, believe
 
 
 ## Week at a glance:  Mar. 13 - Mar. 17
