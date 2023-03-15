@@ -26,3 +26,13 @@ We review the first suite of portfolio assignments. New material: we introduce t
 ### CBL
 
 Dress rehearsals for upcoming classes at Worcester East Middle School.
+
+### Notes
+
+Overview of infinitive formation:
+
+| Voice | Present | Future | Aorist |
+| --- | --- | --- | --- |
+| Active | ἄρχ-**ειν** | ἄρξ-**ειν** | ἅρξ-**αι** |
+| Middle | ἄρχ-**εσθαι** | ἄρξ-**εσθαι**  | ἄρξ-**ασθαι** |
+| Passive | ἄρχ-**εσθαι** | ἀρχθησ-**εσθαι** | ἀρχθ-**ῆναι** |
