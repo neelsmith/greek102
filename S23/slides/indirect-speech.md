@@ -60,7 +60,7 @@ vs.
 
 
 - with verbs expressing *perception* (seeing, hearing)
-- subject of indirect statement treated like an object
+- subject of indirect statement  treated like an object
 - normally corresponds to English subordinate clause introduced by *that...*
 - normally negated with οὐ
 - keep same tense as direct statement

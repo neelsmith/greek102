@@ -11,9 +11,6 @@ has_children: true
 
 ## Announcements
 
-- Portfolio assignment: [grammatical analysis 1](./assignments/grammar1/)
-- [Reading and analysis](./assignments/reading1/) assignment 1
-- [Composition](./assignments/composition1/) assignment 1
 - Monday, **Mar. 20**: vocabulary assessment on verbs from Friday's homework introducing indirect speech:
 
     - δείκνυμι, δείξω, ἔδειξα δέδειχα, δέδειγμαι, ἐδείχθην show, demonstrate
@@ -30,6 +27,15 @@ has_children: true
 ### MWF classes
 
 We review the first suite of portfolio assignments. New material: we introduce three forms of indirect speech.
+
+
+#### Written assignments
+
+
+- Portfolio assignment: [grammatical analysis 1](./assignments/grammar1/)
+- [Reading and analysis](./assignments/reading1/) assignment 1
+- [Composition](./assignments/composition1/) assignment 1
+
 
 ### CBL
 

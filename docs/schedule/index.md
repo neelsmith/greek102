@@ -39,7 +39,7 @@ Deadlines to note:
 | *Feb 27*, *Mar 1*, *Mar 3* | Reading and analysis [workshop](../assignments/reading1/) | Composition 1 [workshop](../assignments/composition1/) | *No class* | **Fri**: *No class.* |
 | *Mar 6*, *Mar 8*, *Mar 10* | ***spring break*** | ***spring break*** | ***spring break*** |  |
 | *Mar 13*, *Mar 15*, *Mar 17* | Review portfolio 1 [composition](../assignments/composition1/) | The [infinitive](../assignments/infinitive/) | [Indirect](../assignments/indirect-speech/) speech | **Mon**: *Classes resume.* |
-| *Mar 20*, *Mar 22*, *Mar 24* | 🔬 More [noun(../assignments/more-3rd-declension/)] and [adjective](../assignments/more-adjectives/) patterns | *Teaching classes in Worcester East Middle School* | Some important [irregular](../assignments/some-irregular-verbs/) verbs | **Wed**: *No class: teaching at Worcester East Middle School.* |
+| *Mar 20*, *Mar 22*, *Mar 24* | 🔬 More noun and adjective [patterns](../assignments/more-3rd-declension/) | *Teaching classes in Worcester East Middle School* | Some important [irregular](../assignments/some-irregular-verbs/) verbs | **Wed**: *No class: teaching at Worcester East Middle School.* |
 | *Mar 27*, *Mar 29*, *Mar 31* | Simple and generalizing conditions (present and past time) | Contrafactual conditions (present and past) | Future conditions |  |
 | *Apr 3*, *Apr 5*, *Apr 7* | Portfolio workshop | Portfolio workshop | *Easter break* | **Wed**: *Last class before Easter break.* |
 
