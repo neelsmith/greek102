@@ -15,7 +15,7 @@ has_children: true
 - Last dates for portfolio assignment revisions:
     - analyzing verb forms: Monday, Mar. 27
     - translation 1: Monday, Mar. 27
-    - composition 1:  Wednesday, Mar. 29
+    - composition 1:  Friday, Mar. 31
 
 ## Week at a glance:  Mar. 20 - Mar. 24
 
