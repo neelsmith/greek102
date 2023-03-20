@@ -9,39 +9,27 @@ has_children: true
 
 # Greek 102-01, S'23: home page
 
-## Announcements
 
-- Monday, **Mar. 20**: vocabulary assessment on verbs from Friday's homework introducing indirect speech:
+- Wednesday, **Mar. 22**: no class; teaching in Worcester East Middle School
+- Friday, **Mar. 24**: vocabulary assessment on verbs from last week's homework introducing indirect speech
+- Last dates for portfolio assignment revisions:
+    - analyzing verb forms: Monday, Mar. 27
+    - translation 1: Monday, Mar. 27
+    - composition 1:  Wednesday, Mar. 29
 
-    - δείκνυμι, δείξω, ἔδειξα δέδειχα, δέδειγμαι, ἐδείχθην show, demonstrate
-    - ἡγέομαι, ἡγήσομαι, ἡγησάμην, —, ἥγημαι, ἡγήθην think, consider, believe
-    - λέγω, λέξω, ἔλεξα or εἶπον, εἴρηκα, λέλεγμαι, ἐλέχθην say, speak, tell
-    - ὁράω, ὄψομαι, εἶδον, ἑώρακα or ἑόρακα, ἑώραμαι or ὦμμαι, ὤφθην see, look, understand
-    - φημί, φήσω, ἔφησα, —, —, — say, assert, affirm
-    - ἀκούω, ἀκούσομαι, ἤκουσα, ἀκήκοα, — , ἠκούσθην hear, listen to
-    - νομίζω, νομιῶ, ἐνόμισα, νενόμικα, νενόμισμαι, ἐνομίσθην think, believe
+## Week at a glance:  Mar. 20 - Mar. 24
 
+We review noun and adjective forms, and add some variations on third-declension patterns.
 
-## Week at a glance:  Mar. 13 - Mar. 17
-
-### MWF classes
-
-We review the first suite of portfolio assignments. New material: we introduce three forms of indirect speech.
+## CBL
 
 
-#### Written assignments
+- No CBL lab this week: teaching in Worcester East Middle School
 
 
-- Portfolio assignment: [grammatical analysis 1](./assignments/grammar1/)
-- [Reading and analysis](./assignments/reading1/) assignment 1
-- [Composition](./assignments/composition1/) assignment 1
 
 
-### CBL
-
-Dress rehearsals for upcoming classes at Worcester East Middle School.
-
-### Notes
+### Notes for review
 
 Overview of infinitive formation:
 

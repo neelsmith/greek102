@@ -7,6 +7,24 @@ nav_order: 6
 # Previous "week at a glance" summaries
 
 
+## Week at a glance:  Mar. 13 - Mar. 17
+
+### MWF classes
+
+We review the first suite of portfolio assignments. New material: we introduce three forms of indirect speech.
+
+
+#### Written assignments
+
+
+- Portfolio assignment: [grammatical analysis 1](./assignments/grammar1/)
+- [Reading and analysis](./assignments/reading1/) assignment 1
+- [Composition](./assignments/composition1/) assignment 1
+
+
+### CBL
+
+Dress rehearsals for upcoming classes at Worcester East Middle School.
 
 ## Week at a glance:  Feb. 20 - Feb. 24
 
