@@ -40,15 +40,14 @@ Deadlines to note:
 | *Mar 6*, *Mar 8*, *Mar 10* | ***spring break*** | ***spring break*** | ***spring break*** |  |
 | *Mar 13*, *Mar 15*, *Mar 17* | Review portfolio 1 [composition](../assignments/composition1/) | The [infinitive](../assignments/infinitive/) | [Indirect](../assignments/indirect-speech/) speech | **Mon**: *Classes resume.* |
 | *Mar 20*, *Mar 22*, *Mar 24* | 🔬 More noun and adjective [patterns](../assignments/more-3rd-declension/) | *Teaching classes in Worcester East Middle School* | Some important [irregular](../assignments/some-irregular-verbs/) verbs | **Wed**: *No class: teaching at Worcester East Middle School.* |
-| *Mar 27*, *Mar 29*, *Mar 31* | Simple and generalizing conditions (present and past time) | Contrafactual conditions (present and past) | Future conditions |  |
-| *Apr 3*, *Apr 5*, *Apr 7* | Portfolio workshop | Portfolio workshop | *Easter break* | **Wed**: *Last class before Easter break.* |
+| *Mar 27*, *Mar 29*, *Mar 31* | Reading assignment preparation: analyzing [syntax]() | Portfolio workshop: reading | Simple and generalizing conditions (present and past time) |  |
+| *Apr 3*, *Apr 5*, *Apr 7* | Contrafactual conditions (present and past) | Portfolio workshop:  composition | *Easter break* | **Wed**: *Last class before Easter break.* |
 
 ## Reading Greek
 
 | Dates | Monday | Wednesday | Friday | Notes |
 | ---: | :--- | :--- | :--- | :--- |
-| *Apr 10*, *Apr 12*, *Apr 14* | *Easter break* | class | class | **Tue**: *Classes resume.* |
+| *Apr 10*, *Apr 12*, *Apr 14* | *Easter break* | Future conditions | class | **Tue**: *Classes resume.* |
 | *Apr 17*, *Apr 19*, *Apr 21* | class | class | class |  |
-| *Apr 24*, *Apr 26*, *Apr 28* | class | *no class: Academic Conference* | class | **Wed**: *Academic conference.* |
+| *Apr 24*, *Apr 26*, *Apr 28* | *no class: Academic Conference* | class | class | **Wed**: *Academic conference.* |
 | *May 1*, *May 3*, *May 5* | class | class | class |  |
-| *May 8*, *May 10*, *May 12* | class | *Study period* | *Exam period* | **Mon**: *Last day of classes.* **Tue**: *Study period begins.* **Thu**: *Final examinations begin.* |
