@@ -59,7 +59,7 @@ The [infinitive](../assignments/infinitive/)
 Some important [irregular](../assignments/some-irregular-verbs/) verbs
 
 
-Reading assignment preparation: analyzing [syntax]()
+Reading assignment preparation: analyzing [syntax](../assignments/syntax-analysis/)
 Portfolio workshop: reading
 Simple and generalizing conditions (present and past time)
 
