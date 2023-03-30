@@ -10,24 +10,10 @@ has_children: true
 # Greek 102-01, S'23: home page
 
 
-- Wednesday, **Mar. 22**: no class; teaching in Worcester East Middle School
-- Friday, **Mar. 24**: vocabulary assessment on verbs from last week's homework introducing indirect speech
-- Last dates for portfolio assignment revisions:
-    - analyzing verb forms: Monday, Mar. 27
-    - translation 1: Monday, Mar. 27
-    - composition 1:  Friday, Mar. 31
 
-## Week at a glance:  Mar. 20 - Mar. 24
+## Week at a glance:  Mar. 27 - Mar. 31
 
-We review noun and adjective forms, and add some variations on third-declension patterns.
-
-## CBL
-
-
-- No CBL lab this week: teaching in Worcester East Middle School
-
-
-
+conditions
 
 ### Notes for review
 
