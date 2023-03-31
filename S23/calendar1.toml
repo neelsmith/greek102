@@ -9,7 +9,7 @@ lastDay = "2023-05-15"
 schedule = "mwf"
 
 # Number of weeks the calendar should run for
-totalWeeks =  14
+totalWeeks =  15
 
 fixedDates = [
   ["2023-01-23", "No classes."],

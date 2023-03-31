@@ -12,12 +12,18 @@ has_children: true
 
 ## Announcements
 
-- Monday, Apr. 3: vocabulary assessment on verbs from previous homework introducing indirect speech
-- Last dates for revising composition 1: Friday, Mar. 31
+- **Monday, Apr. 3**: vocabulary assessment on verbs from previous homework introducing indirect speech
+- **Wednesday, Apr. 12**: vocabulary assessment on [vocabulary for module 6](https://hellenike.github.io/textbook/review/module6-review/vocabulary/)
+- **Friday, Apr. 14**: composition 2 due
+- **Friday, Mar. 31**: last dates for revising composition 1
 
 ## Week at a glance:  Mar. 27 - Mar. 31
 
 We introduce *conditions*.
+
+### Vocabulary
+
+- begin learning [vocabulary for module 6](https://hellenike.github.io/textbook/review/module6-review/vocabulary/)
 
 ### Notes for review
 
