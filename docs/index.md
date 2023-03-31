@@ -10,28 +10,70 @@ has_children: true
 # Greek 102-01, S'23: home page
 
 
-- Wednesday, **Mar. 22**: no class; teaching in Worcester East Middle School
-- Friday, **Mar. 24**: vocabulary assessment on verbs from last week's homework introducing indirect speech
-- Last dates for portfolio assignment revisions:
-    - analyzing verb forms: Monday, Mar. 27
-    - translation 1: Monday, Mar. 27
-    - composition 1:  Friday, Mar. 31
+## Announcements
 
-## Week at a glance:  Mar. 20 - Mar. 24
+- **Monday, Apr. 3**: vocabulary assessment on verbs from previous homework introducing indirect speech
+- **Wednesday, Apr. 12**: vocabulary assessment on [vocabulary for module 6](https://hellenike.github.io/textbook/review/module6-review/vocabulary/)
+- **Friday, Apr. 14**: composition 2 due
+- **Friday, Mar. 31**: last dates for revising composition 1
 
-We review noun and adjective forms, and add some variations on third-declension patterns.
+## Week at a glance:  Mar. 27 - Mar. 31
 
-## CBL
+We introduce *conditions*.
 
+### Vocabulary
 
-- No CBL lab this week: teaching in Worcester East Middle School
-
-
-
+- begin learning [vocabulary for module 6](https://hellenike.github.io/textbook/review/module6-review/vocabulary/)
 
 ### Notes for review
 
-Overview of infinitive formation:
+
+### Comparison of *third-person singular* endings in three moods of ἄρχω
+
+
+1) Present tense (1st principal part)
+
+| Voice | Indicative | Subjunctive | Optative |
+| --- | --- | --- | --- |
+| Active | ἄρχ-**ει** | ἄρχ-**ῃ** | ἄρχ-**οι** |
+| Middle | ἄρχ-**εται** | ἄρχ-**ηται** | ἄρχ-**οιτο** |
+| Passive  | ἄρχ-**εται** | ἄρχ-**ηται** | ἄρχ-**οιτο** |
+
+
+2) Aorist tense (3rd and 6th principal parts)
+
+| Voice | Indicative | Subjunctive | Optative |
+| --- | --- | --- | --- |
+| Active | ἦρξ-**ε** | ἄρξ-**ῃ** | ἄρξ-**αι** / ἄρξ-**ειε** |
+| Middle | ἤρξ-**ατο** | ἄρξ-**ηται** | ἄρξ-**ατο** |
+| Passive | ἤρχθ-**η** |  ἀρχθ-**ῇ** | ἀρχθ-**είη** |
+
+
+
+
+
+#### Comparison of **third-person plural** endings in three moods of ἄρχω
+
+
+1) Present tense (1st principal part)
+
+| Voice | Indicative | Subjunctive | Optative |
+| --- | --- | --- | --- |
+| Active | ἄρχ-**ουσι** | ἄρχ-**ωσι** | ἄρχ-**οιεν** |
+| Middle | ἄρχ-**ονται** | ἄρχ-**ωνται** | ἄρχ-**οιντο** |
+| Passive  | ἄρχ-**ονται** | ἄρχ-**ωνται** | ἄρχ-**οιντο** |
+
+
+2) Aorist tense (3rd and 6th principal parts)
+
+| Voice | Indicative | Subjunctive | Optative |
+| --- | --- | --- | --- |
+| Active | ἦρξ-**αν** | ἄρξ-**ωσι** | ἄρξ-**αιεν** / ἄρξ-**ειαν** |
+| Middle | ἤρξ-**αντο** | ἄρξ-**ωνται** | ἄρξ-**αιντο** |
+| Passive | ἤρχθ-**ησαν** | ἀρχθ-**ῶσι** | ἀρχθ-**εῖεν** |
+
+
+#### Overview of infinitive formation
 
 | Voice | Present | Future | Aorist |
 | --- | --- | --- | --- |

@@ -7,6 +7,27 @@ nav_order: 6
 # Previous "week at a glance" summaries
 
 
+## Week at a glance:  Mar. 20 - Mar. 24
+
+- Wednesday, **Mar. 22**: no class; teaching in Worcester East Middle School
+- Friday, **Mar. 24**: vocabulary assessment on verbs from last week's homework introducing indirect speech
+- Last dates for portfolio assignment revisions:
+    - analyzing verb forms: Monday, Mar. 27
+    - translation 1: Monday, Mar. 27
+    - composition 1:  Friday, Mar. 31
+
+
+
+We review noun and adjective forms, and add some variations on third-declension patterns.
+
+## CBL
+
+
+- No CBL lab this week: teaching in Worcester East Middle School
+
+
+
+
 ## Week at a glance:  Mar. 13 - Mar. 17
 
 ### MWF classes
