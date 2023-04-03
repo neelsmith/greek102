@@ -14,7 +14,7 @@ has_children: true
 
 - **Monday, Apr. 3**: vocabulary assessment on verbs from previous homework introducing indirect speech
 - **Wednesday, Apr. 12**: vocabulary assessment on [vocabulary for module 6](https://hellenike.github.io/textbook/review/module6-review/vocabulary/)
-- **Friday, Apr. 14**: composition 2 due
+- **Friday, Apr. 14**: [composition 2](https://hellenike.github.io/textbook/practice/module5/portfolio/composition/) due
 - **Friday, Mar. 31**: last dates for revising composition 1
 
 ## Week at a glance:  Mar. 27 - Mar. 31
