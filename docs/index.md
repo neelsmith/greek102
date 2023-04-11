@@ -12,71 +12,42 @@ has_children: true
 
 ## Announcements
 
-- **Monday, Apr. 3**: vocabulary assessment on verbs from previous homework introducing indirect speech
+- How to approach [reading assignments](./assignments/reading-how-to/)
 - **Wednesday, Apr. 12**: vocabulary assessment on [vocabulary for module 6](https://hellenike.github.io/textbook/review/module6-review/vocabulary/)
-- **Friday, Apr. 14**: composition 2 due
-- **Friday, Mar. 31**: last dates for revising composition 1
+- **Friday, Apr. 14**: [composition 2](https://hellenike.github.io/textbook/practice/module5/portfolio/composition/) due
+- **Monday, Apr. 3**: vocabulary assessment on verbs from previous homework introducing indirect speech
 
-## Week at a glance:  Mar. 27 - Mar. 31
+Resources for reading:
 
-We introduce *conditions*.
-
-### Vocabulary
-
-- begin learning [vocabulary for module 6](https://hellenike.github.io/textbook/review/module6-review/vocabulary/)
-
-### Notes for review
+- [commentary and notes](./lysiascrito-24aug17w.pdf) on Lysias 1 by Geoffrey Steadman
 
 
-### Comparison of *third-person singular* endings in three moods of ἄρχω
 
 
-1) Present tense (1st principal part)
+## Week at a glance:  Apr. 10 - Apr. 14
 
-| Voice | Indicative | Subjunctive | Optative |
+We begin reading continuous text!  See notes on [how to prepare an assigned text](./assignments/reading-how-to/) for class reading.
+
+
+
+- Wednesday: [Lysias 16](./lysias1/reader/1.16.html). "If you torture her, you'll learn everything!" (starts on p. 10 in Steadman)
+- Friday: selections from [Lysias 12-15](./lysias1/reader/1.12.html) (to be continued next week)
+
+
+## Notes and review
+
+### Formation of the future system
+
+Principals of formation are like the *future participle*:
+
+- use the same endings as the present system
+- use the second principal part for active and middle voices
+- use the sixth prinicipal part extended with -ησ- for the passive voice
+
+Third singular examples: the indicative mood.
+
+| Tense | Active | Middle | Passive | 
 | --- | --- | --- | --- |
-| Active | ἄρχ-**ει** | ἄρχ-**ῃ** | ἄρχ-**οι** |
-| Middle | ἄρχ-**εται** | ἄρχ-**ηται** | ἄρχ-**οιτο** |
-| Passive  | ἄρχ-**εται** | ἄρχ-**ηται** | ἄρχ-**οιτο** |
+| Present | ἄρχ-**ει** | ἄρχ-**εται** | ἄρχ-**εται** |
+| Future | ἄρξ-**ει** | ἄρξ-**εται** | ἀρχθήσ-**εται** | 
 
-
-2) Aorist tense (3rd and 6th principal parts)
-
-| Voice | Indicative | Subjunctive | Optative |
-| --- | --- | --- | --- |
-| Active | ἦρξ-**ε** | ἄρξ-**ῃ** | ἄρξ-**αι** / ἄρξ-**ειε** |
-| Middle | ἤρξ-**ατο** | ἄρξ-**ηται** | ἄρξ-**ατο** |
-| Passive | ἤρχθ-**η** |  ἀρχθ-**ῇ** | ἀρχθ-**είη** |
-
-
-
-
-
-#### Comparison of **third-person plural** endings in three moods of ἄρχω
-
-
-1) Present tense (1st principal part)
-
-| Voice | Indicative | Subjunctive | Optative |
-| --- | --- | --- | --- |
-| Active | ἄρχ-**ουσι** | ἄρχ-**ωσι** | ἄρχ-**οιεν** |
-| Middle | ἄρχ-**ονται** | ἄρχ-**ωνται** | ἄρχ-**οιντο** |
-| Passive  | ἄρχ-**ονται** | ἄρχ-**ωνται** | ἄρχ-**οιντο** |
-
-
-2) Aorist tense (3rd and 6th principal parts)
-
-| Voice | Indicative | Subjunctive | Optative |
-| --- | --- | --- | --- |
-| Active | ἦρξ-**αν** | ἄρξ-**ωσι** | ἄρξ-**αιεν** / ἄρξ-**ειαν** |
-| Middle | ἤρξ-**αντο** | ἄρξ-**ωνται** | ἄρξ-**αιντο** |
-| Passive | ἤρχθ-**ησαν** | ἀρχθ-**ῶσι** | ἀρχθ-**εῖεν** |
-
-
-#### Overview of infinitive formation
-
-| Voice | Present | Future | Aorist |
-| --- | --- | --- | --- |
-| Active | ἄρχ-**ειν** | ἄρξ-**ειν** | ἅρξ-**αι** |
-| Middle | ἄρχ-**εσθαι** | ἄρξ-**εσθαι**  | ἄρξ-**ασθαι** |
-| Passive | ἄρχ-**εσθαι** | ἀρχθησ-**εσθαι** | ἀρχθ-**ῆναι** |

@@ -48,7 +48,7 @@ Deadlines to note:
 | Dates | Monday | Wednesday | Friday | Notes |
 | ---: | :--- | :--- | :--- | :--- |
 | *Apr 10*, *Apr 12*, *Apr 14* | *Easter break* | [Future](../assignments/futureconditions/) conditions | [Perfect](../assignments/perfect/) participles, and the verb τίθημι | **Tue**: *Classes resume.* |
-| *Apr 17*, *Apr 19*, *Apr 21* | Portfolio workshop: analysis and translation | Reading: Euphiletos addresses the jury | Portfolio workshop: composition |  |
-| *Apr 24*, *Apr 26*, *Apr 28* | First and second person forms | *no class: Academic Conference* | Reading: Euphiletos addresses the jury, 2 | **Wed**: *Academic conference.* |
-| *May 1*, *May 3*, *May 5* | class | class | class |  |
-| *May 8*, *May 10*, *May 12* | class | *Study period* | *Exam period* | **Mon**: *Last day of classes.* **Tue**: *Study period begins.* **Thu**: *Final examinations begin.* |
+| *Apr 17*, *Apr 19*, *Apr 21* | Portfolio workshop: analysis and translation | First and second person forms | Portfolio workshop: composition |  |
+| *Apr 24*, *Apr 26*, *Apr 28* | Reading: Euphiletos addresses the jury | *no class: Academic Conference* | Reading: Euphiletos addresses the jury, 2 | **Wed**: *Academic conference.* |
+| *May 1*, *May 3*, *May 5* | Reading Lysias 1 | Reading Lysias 1 | Reading Lysias 1 |  |
+| *May 8*, *May 10*, *May 12* | Reflection and planning beyond Greek 102 | *Study period* | *Exam period* | **Mon**: *Last day of classes.* **Tue**: *Study period begins.* **Thu**: *Final examinations begin.* |
