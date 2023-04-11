@@ -24,9 +24,9 @@ Resources for reading:
 
 
 
-## Week at a glance:  Mar. 10 - Mar. 14
+## Week at a glance:  Apr. 10 - Apr. 14
 
-We begin reading continuous text!  
+We begin reading continuous text!  See notes on [how to prepare an assigned text](./assignments/reading-how-to/) for class reading.
 
 
 
