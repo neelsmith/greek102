@@ -15,7 +15,7 @@ has_children: true
 - How to approach [reading assignments](./assignments/reading-how-to/)
 - **Wednesday, Apr. 12**: vocabulary assessment on [vocabulary for module 6](https://hellenike.github.io/textbook/review/module6-review/vocabulary/)
 - **Friday, Apr. 14**: [composition 2](https://hellenike.github.io/textbook/practice/module5/portfolio/composition/) due
-- **Monday, Apr. 3**: vocabulary assessment on verbs from previous homework introducing indirect speech
+
 
 Resources for reading:
 

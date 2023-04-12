@@ -7,7 +7,7 @@ nav_order: 6
 # Previous "week at a glance" summaries
 
 ## Week at a glance:  Mar. 27 - Mar. 31
-
+- **Monday, Apr. 3**: vocabulary assessment on verbs from previous homework introducing indirect speech
 - **Friday, Mar. 31**: last dates for revising composition 1
 
 
