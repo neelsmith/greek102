@@ -22,4 +22,8 @@ In addition to the glosses in Steadman, note these second person singular ending
 - present/future indicative middle: ῃ
 
 
+Principal parts for verbs glossed in Steadman:
+
+- πυνθάνομαι, πεύσομαι, ἐπυθόμην, -, πέπυσμαι, -
+- φθείρω, φθερῶ, ἔφθειρα, ἔφθαρκα, ἔφθαρμαι, ἐφθάρην
 
