@@ -39,6 +39,11 @@ We begin reading continuous text!  See notes on [how to prepare an assigned text
 
 ## Notes and review
 
-Some vocab:
+Some important vocabulary:
 
 - ἀποθνῄσκω, ἀποθανοῦμαι, ἀπέθανον, (ἀπο)τέθνηκα, -, -  "to die"
+
+
+Some truly obscure vocabulary!
+
+- ψιμυθιόω (regular omicron contract): from ψιμύθιον, -ου, τό, "white lead" (used as a pigment). "to apply (white lead) makeup"
