@@ -12,9 +12,12 @@ has_children: true
 
 ## Announcements
 
+- Brief summaries of some grammatical points:  [reference and review](./reference/)
 - How to approach [reading assignments](./assignments/reading-how-to/)
 - **Wednesday, Apr. 12**: vocabulary assessment on [vocabulary for module 6](https://hellenike.github.io/textbook/review/module6-review/vocabulary/)
 - **Friday, Apr. 14**: [composition 2](https://hellenike.github.io/textbook/practice/module5/portfolio/composition/) due
+- Vocab quiz: in-class assessment of [module six vocabulary](https://hellenike.github.io/textbook/review/module6-review/vocabulary/) to be rescheduled.
+
 
 
 Resources for reading:
@@ -35,19 +38,3 @@ We begin reading continuous text!  See notes on [how to prepare an assigned text
 
 
 ## Notes and review
-
-### Formation of the future system
-
-Principals of formation are like the *future participle*:
-
-- use the same endings as the present system
-- use the second principal part for active and middle voices
-- use the sixth prinicipal part extended with -ησ- for the passive voice
-
-Third singular examples: the indicative mood.
-
-| Tense | Active | Middle | Passive | 
-| --- | --- | --- | --- |
-| Present | ἄρχ-**ει** | ἄρχ-**εται** | ἄρχ-**εται** |
-| Future | ἄρξ-**ει** | ἄρξ-**εται** | ἀρχθήσ-**εται** | 
-
