@@ -38,3 +38,7 @@ We begin reading continuous text!  See notes on [how to prepare an assigned text
 
 
 ## Notes and review
+
+Some vocab:
+
+- ἀποθνῄσκω, ἀποθανοῦμαι, ἀπέθανον, (ἀπο)τέθνηκα, -, -  "to die"
