@@ -6,7 +6,7 @@ parent: "Reference and review"
 ---
 
 
-# -ω verbs: patterns of  endings
+# Shared patterns of verb endings
 
 
 | Person, number | Active: primary | Active: secondary | M-P: primary | M-P: secondary |
