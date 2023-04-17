@@ -29,7 +29,7 @@ First plural
 | Tense, Voice | Indicative | Subjunctive | Optative |
 | --- | --- | --- | --- | 
 | Present active | ἄρχ-**ομεν** |  ἄρχ-**ωμεν** | ἄρχ-**οιμεν** |
-| Present middle and passive | ἀρχ-**όμεθα** |  ἀρχ-**ώμεθα** | ἀρχ-**οίμην** |
+| Present middle and passive | ἀρχ-**όμεθα** |  ἀρχ-**ώμεθα** | ἀρχ-**οίμηεθα** |
 | Future passive | ἀρχθ-ησ-**όμεθα** |  - | ἀρχθ-ησ-**οίμεθα** |
 | Imperfect active | ἤρχ-**ομεν** | - | - |
 | Imperfect middle or passive | ἦρχ-**όμεθα** | - | - |
