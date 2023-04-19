@@ -12,9 +12,11 @@ has_children: true
 
 ## Announcements
 
+- Please schedule an individual conference to review final course project, and future plans beyond this semester
+- Final [project](./project/)
 - Brief summaries of some grammatical points:  [reference and review](./reference/)
 - How to approach [reading assignments](./assignments/reading-how-to/)
-- **Wednesday, Apr. 12**: vocabulary assessment on [vocabulary for module 6](https://hellenike.github.io/textbook/review/module6-review/vocabulary/)
+- **Monday, Apr. 17**: vocabulary assessment on [vocabulary for module 6](https://hellenike.github.io/textbook/review/module6-review/vocabulary/)
 - **Friday, Apr. 14**: [composition 2](https://hellenike.github.io/textbook/practice/module5/portfolio/composition/) due
 - Vocab quiz: in-class assessment of [module six vocabulary](https://hellenike.github.io/textbook/review/module6-review/vocabulary/) to be rescheduled.
 
@@ -34,7 +36,7 @@ We begin reading continuous text!  See notes on [how to prepare an assigned text
 
 
 - Wednesday: [Lysias 16](./lysias1/reader/1.16.html). "If you torture her, you'll learn everything!" (starts on p. 10 in Steadman)
-- Friday: selections from [Lysias 12-15](./lysias1/reader/1.12.html) (to be continued next week)
+- Friday: begin selections from [Lysias 12-15](./lysias1/reader/1.12.html) (to be continued next week)
 
 
 ## Notes and review
