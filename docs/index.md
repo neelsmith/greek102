@@ -12,7 +12,8 @@ has_children: true
 
 ## Announcements
 
-- Please schedule an individual conference to review final course requirements, and future plans
+- Please schedule an individual conference to review final course project, and future plans beyond this semester
+- Final [project](./project/)
 - Brief summaries of some grammatical points:  [reference and review](./reference/)
 - How to approach [reading assignments](./assignments/reading-how-to/)
 - **Monday, Apr. 17**: vocabulary assessment on [vocabulary for module 6](https://hellenike.github.io/textbook/review/module6-review/vocabulary/)
