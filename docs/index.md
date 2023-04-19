@@ -35,7 +35,7 @@ We begin reading continuous text!  See notes on [how to prepare an assigned text
 
 
 - Wednesday: [Lysias 16](./lysias1/reader/1.16.html). "If you torture her, you'll learn everything!" (starts on p. 10 in Steadman)
-- Friday: selections from [Lysias 12-15](./lysias1/reader/1.12.html) (to be continued next week)
+- Friday: begin selections from [Lysias 12-15](./lysias1/reader/1.12.html) (to be continued next week)
 
 
 ## Notes and review
