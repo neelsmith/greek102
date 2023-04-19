@@ -14,7 +14,7 @@ has_children: true
 
 - Brief summaries of some grammatical points:  [reference and review](./reference/)
 - How to approach [reading assignments](./assignments/reading-how-to/)
-- **Wednesday, Apr. 12**: vocabulary assessment on [vocabulary for module 6](https://hellenike.github.io/textbook/review/module6-review/vocabulary/)
+- **Monday, Apr. 17**: vocabulary assessment on [vocabulary for module 6](https://hellenike.github.io/textbook/review/module6-review/vocabulary/)
 - **Friday, Apr. 14**: [composition 2](https://hellenike.github.io/textbook/practice/module5/portfolio/composition/) due
 - Vocab quiz: in-class assessment of [module six vocabulary](https://hellenike.github.io/textbook/review/module6-review/vocabulary/) to be rescheduled.
 
