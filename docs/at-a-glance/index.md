@@ -6,6 +6,11 @@ nav_order: 6
 
 # Previous "week at a glance" summaries
 
+- **Friday, Apr. 14**: [composition 2](https://hellenike.github.io/textbook/practice/module5/portfolio/composition/) due
+- Vocab quiz: in-class assessment of [module six vocabulary](https://hellenike.github.io/textbook/review/module6-review/vocabulary/) to be rescheduled.
+
+
+
 ## Week at a glance:  Mar. 27 - Mar. 31
 - **Monday, Apr. 3**: vocabulary assessment on verbs from previous homework introducing indirect speech
 - **Friday, Mar. 31**: last dates for revising composition 1
