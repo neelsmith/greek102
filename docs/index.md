@@ -19,7 +19,13 @@ has_children: true
 
 ## Weeks at a glance:  Apr. 24 - May 5
 
-We read continuous passages of Lysias 1. Keep these resources and notes at hand:
+We read continuous passages of Lysias 1. Lobby for your favorite passage to read together!  Some candidates:
+
+- sections 24-26: the climax of the narration, and killing of Eratosthenes. "I'm not the one killing you: it's the laws of the city!"
+- sections 46-48: Euphiletos' closing argument to the jury.  "I did this on behalf of the city!"
+
+
+Keep these resources and notes at hand:
 
 
 - [commentary and notes](./lysiascrito-24aug17w.pdf) on Lysias 1 by Geoffrey Steadman
