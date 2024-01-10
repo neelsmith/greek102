@@ -17,7 +17,7 @@ S24 course material will be posted here by the first day of classes.
 
 ## Review from Greek 101
 
-To begin the semester, we will review the following topics, and have in-class assessments covering them.
+We will begin the semester by reviewing the following three topics, including in-class assessments covering them.
 
 
 1. **vocabulary: principal parts of verbs**. Assessment: correctly identify a principal part (e.g., given ἔβαλον, identify it as third principal part of βάλλω "to throw, strike"), or produce a principle part (e.g., asked for the sixth principal part of βάλλω "to throw, strike", produce ἐβλήθην). References to review in your textbook:
