@@ -15,7 +15,7 @@ S24 course material will be posted here by the first day of classes.
 
 
 
-## Review from Greek 101
+## Material to review from Greek 101
 
 We will begin the semester by reviewing the following three topics, including in-class assessments covering them.
 
