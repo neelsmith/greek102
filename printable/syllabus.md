@@ -1,5 +1,5 @@
 ---
-title: "Greek 102, section 1, spring '23: Syllabus"
+title: "Greek 102, section 1, spring '24: Syllabus"
 documentclass: "article"
 ---
 

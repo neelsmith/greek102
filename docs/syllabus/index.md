@@ -6,4 +6,4 @@ has_children: true
 ---
 
 
-# Greek 102, S23: syllabus
+# Greek 102, S24: syllabus
