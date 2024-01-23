@@ -1,0 +1,38 @@
+# Configure a course calendar
+# Used for title of web page
+courseTitle = "Greek 102, section 2, S'24"
+# YYYY-MM-DD
+firstDay = "2024-01-24"
+lastDay = "2024-05-10"
+
+# Pattern of class meetings: "mwf", "tt" or "wf"
+schedule = "mwf"
+
+# Number of weeks the calendar should run for
+totalWeeks =  15
+
+fixedDates = [
+  
+  ["2024-02-21",  "📜 Module 4: mastery."],
+  ["2024-02-23",  "📜 Module 4: reading."],
+  ["2024-02-28",  "📜 Module 4: composition."],
+
+
+    
+  ["2024-03-15",  "📜 Module 5: mastery."],
+  ["2024-03-20",  "📜 Module 5:reading."],
+  ["2024-03-25",  "📜 Module 5: composition."],
+
+
+
+  ["2024-04-23",  "📜 Translation assignment due."],
+
+
+  ["2024-03-01",  "Last class before spring break."],
+  ["2024-03-11",  "Class resumes."],
+  ["2024-03-27",  "Last class before Easter break."],
+  ["2024-04-03",  "Class resumes."],
+  ["2024-04-24",  "Academic Conference."],
+  ["2024-05-06",  "Last class."],
+
+]
