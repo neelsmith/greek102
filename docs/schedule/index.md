@@ -21,9 +21,9 @@ Deadlines to note:
 
 | Dates | Monday | Wednesday | Friday | Notes |
 | ---: | :--- | :--- | :--- | :--- |
-| *Jan 22*, *Jan 24*, *Jan 26* | *no class* | Welcome back! | class |  |
-| *Jan 29*, *Jan 31*, *Feb 2* | class | class | class |  |
-| *Feb 5*, *Feb 7*, *Feb 9* | class | class | class |  |
+| *Jan 22*, *Jan 24*, *Jan 26* | *no class* | Welcome back! | The perfect participle |  |
+| *Jan 29*, *Jan 31*, *Feb 2* | class | The first and second persons | class |  |
+| *Feb 5*, *Feb 7*, *Feb 9* | The present indicative | class | class |  |
 
 ## Indirect statement
 
@@ -39,7 +39,7 @@ Deadlines to note:
 | Dates | Monday | Wednesday | Friday | Notes |
 | ---: | :--- | :--- | :--- | :--- |
 | *Mar 11*, *Mar 13*, *Mar 15* | class | class | class | **Fri**: *📜 Module 5: mastery.* **Mon**: *Class resumes.* |
-| *Mar 18*, *Mar 20*, *Mar 22* | class | class | class | **Fri**: *📜 Module 5:reading.* |
+| *Mar 18*, *Mar 20*, *Mar 22* | class | class | class | **Wed**: *📜 Module 5:reading.* |
 | *Mar 25*, *Mar 27*, *Mar 29* | class | class | *Easter break* | **Mon**: *📜 Module 5: composition.* **Wed**: *Last class before Easter break.* |
 
 ## Reading Greek
