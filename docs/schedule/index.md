@@ -23,15 +23,15 @@ Deadlines to note:
 | ---: | :--- | :--- | :--- | :--- |
 | *Jan 22*, *Jan 24*, *Jan 26* | *no class* | Welcome back! | Introducing the [perfect participle](../classes/pftptcpl/) |  |
 | *Jan 29*, *Jan 31*, *Feb 2* | 🔬 The perfect participle in Lysias | The first and second persons | 🔬 The first and second person in Lysias |  |
-| *Feb 5*, *Feb 7*, *Feb 9* | The present indicative | 🔬 The present indicative in Lysias | class |  |
+| *Feb 5*, *Feb 7*, *Feb 9* | The present indicative | 🔬 The present indicative in Lysias | Review |  |
 
 ## Indirect statement
 
 | Dates | Monday | Wednesday | Friday | Notes |
 | ---: | :--- | :--- | :--- | :--- |
 | *Feb 12*, *Feb 14*, *Feb 16* | 🔬 Verbs of speaking with the infinitive | Verbs of perception with the participle | 🔬 Indirect speech in Lysias |  |
-| *Feb 19*, *Feb 21*, *Feb 23* | Indirect speech with subordination: ὡς, ὅτι with the indicative | The optative moode | class | **Fri**: *📜 Module 4: mastery.* |
-| *Feb 26*, *Feb 28*, *Mar 1* | 🔬 class | 🔬 class | class | **Mon**: *📜 Module 4: reading.* **Wed**: *📜 Module 4: composition.* **Fri**: *Last class before spring break.* |
+| *Feb 19*, *Feb 21*, *Feb 23* | Indirect speech with subordination: ὡς, ὅτι with the indicative | The optative moode | Workshop module 4 mastery assignment | **Fri**: *📜 Module 4: mastery.* |
+| *Feb 26*, *Feb 28*, *Mar 1* | Workshop module 4 reading assignment | Workshop module 4 composition assignment | Review | **Mon**: *📜 Module 4: reading.* **Wed**: *📜 Module 4: composition.* **Fri**: *Last class before spring break.* |
 | *Mar 4*, *Mar 6*, *Mar 8* | ***spring break*** | ***spring break*** | ***spring break*** |  |
 
 ## Subordination
