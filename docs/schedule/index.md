@@ -30,8 +30,8 @@ Deadlines to note:
 | Dates | Monday | Wednesday | Friday | Notes |
 | ---: | :--- | :--- | :--- | :--- |
 | *Feb 12*, *Feb 14*, *Feb 16* | Speech + infinitive | Perception + participle | class |  |
-| *Feb 19*, *Feb 21*, *Feb 23* | Subordination with ὡς, ὅτι  | Sequence with the optative | class | **Wed**: *📜 Module 4: mastery.* **Fri**: *📜 Module 4: reading.* |
-| *Feb 26*, *Feb 28*, *Mar 1* | class | class | class | **Wed**: *📜 Module 4: composition.* **Fri**: *Last class before spring break.* |
+| *Feb 19*, *Feb 21*, *Feb 23* | Subordination with ὡς, ὅτι  | Sequence with the optative | class | **Fri**: *📜 Module 4: mastery.* |
+| *Feb 26*, *Feb 28*, *Mar 1* | class | class | class | **Mon**: *📜 Module 4: reading.* **Wed**: *📜 Module 4: composition.* **Fri**: *Last class before spring break.* |
 | *Mar 4*, *Mar 6*, *Mar 8* | ***spring break*** | ***spring break*** | ***spring break*** |  |
 
 ## Subordination
