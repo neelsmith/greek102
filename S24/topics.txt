@@ -4,30 +4,30 @@
 
 *no class*
 Welcome back!
-The perfect participle
+Introducing the [perfect participle](../classes/pftptcpl/)
 
-class
+🔬 The perfect participle in Lysias
 The first and second persons
-class
+🔬 The first and second person in Lysias
 
 The present indicative
-class
+🔬 The present indicative in Lysias
 class
 
 ## Indirect statement
 
-Speech + infinitive
-Perception + participle
-class
+🔬 Verbs of speaking with the infinitive
+Verbs of perception with the participle
+🔬 Indirect speech in Lysias
 
 
 
-Subordination with ὡς, ὅτι 
-Sequence with the optative
+Indirect speech with subordination: ὡς, ὅτι with the indicative
+The optative moode
 class
 
-class
-class
+🔬 class
+🔬 class
 class
 
 

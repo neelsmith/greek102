@@ -1,7 +1,7 @@
 ---
 title: "Lysias, Oration 1: annotated reader"
 layout: page
-nav_order: 10
+nav_order: 300
 ---
 
 

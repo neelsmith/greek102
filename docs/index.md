@@ -8,6 +8,19 @@ has_children: true
 # Greek 102-01, S'24: home page
 
 
+Welcome back!
 
-> S24 course material will be posted here by the first day of classes.
+## Week at a glance: Jan. 24 - 26
 
+### Overview
+
+We will review the form and uses of participles from Greek 101; we will extend our knowledge of participles with the perfect participles.
+
+### MWF classes
+
+- Wednesday: review forms and constructions of present and aorist participles
+- Friday: introduce the perfect participles
+
+### CBL
+
+No CBL this week.
