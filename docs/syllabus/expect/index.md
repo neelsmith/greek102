@@ -7,11 +7,11 @@ nav_order: 5
 
 # What to expect 
 
-The fall semester introduced the most frequent features of the Greek language. It is essential to master this material, both because you will encounter it constantly in reading Greek, and because it will give you a framework that will make it easier to learn further features of the language this semester. In the first weeks of the spring semester in particular, we will periodically pause to review briefly material introduced in the fall. 
+The fall semester introduced the most frequent features of the Greek language. It is essential to master this material, both because you will encounter it constantly in reading Greek, and because it will give you a framework that will make it easier to learn further features of the language this semester. In the first weeks of the spring semester, we will review and expand on material introduced in the fall; throughouyt the semester, we will periodically pause to review important content. 
 
 Some concepts may sink in immediately, and others may take more practice.  Review and practice are as important as your initial introduction to a topic, so every graded assignment offers you the opportunity to repeat it as often as you need in order to complete it satisfactorily.
 
-Most of our class time together will be devoted to actively applying and using ideas from your class preparation. Since much of the value of this time results from your active engagement with course material, and cannot be replicated by passively watching someone else's involvement, I do not plan to record our class meetings.
+Most of our class time together will be devoted to actively applying and using ideas from your class preparation..
 
 ## Tips
 

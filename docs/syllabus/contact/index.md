@@ -8,11 +8,9 @@ nav_order: 1
 # Contact information
 
 **Instructor**: Neel Smith.  **Email**: at `holycross.edu`, user name `nsmith`
- 
-**Regular class meeting times**:  MWF 9:00-9:50, Fenwick 420.  CBL sections: Wednesday  6:00-6:50 pm, Thursday 8:00-8:50 am, in Fenwick 420.
 
-**Regular drop-in hours (S23)**:  Wednesday 12:30-2:00, Thursday, 12:00-2:00, Friday 1:15-2:30, in Fenwick 415, or anytime by appointment.
+**Regular drop-in hours (S24)**:  Wednesday 10:00-12:00, Thursday, 10:30-12:00, Friday 10:00-12:00, in Fenwick 415; or available anytime by appointment.
 
 **Manuscripts, Inscriptions and Documents Club**:  Friday, 2:00 pm - ?, fourth floor of Fenwick Hall.
 
-Please wear masks in class meetings and in my office.
+Please wear masks when we meet in Fenwick 420, and in my office.  Masks are optional when we meet in O'Neil 101.
