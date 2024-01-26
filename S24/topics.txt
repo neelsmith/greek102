@@ -6,7 +6,7 @@
 Welcome back!
 Introducing the [perfect participle](../classes/pftptcpl/)
 
-🔬 The perfect participle in Lysias
+🔬 The [participle in Lysias](../classes/ptcpls-lysias/)
 The first and second persons
 🔬 The first and second person in Lysias
 
