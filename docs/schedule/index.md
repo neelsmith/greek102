@@ -22,7 +22,7 @@ Deadlines to note:
 | Dates | Monday | Wednesday | Friday | Notes |
 | ---: | :--- | :--- | :--- | :--- |
 | *Jan 22*, *Jan 24*, *Jan 26* | *no class* | Welcome back! | Introducing the [perfect participle](../classes/pftptcpl/) |  |
-| *Jan 29*, *Jan 31*, *Feb 2* | 🔬 The perfect participle in Lysias | The first and second persons | 🔬 The first and second person in Lysias |  |
+| *Jan 29*, *Jan 31*, *Feb 2* | 🔬 The [participle in Lysias](../classes/ptcpls-lysias/) | The first and second persons | 🔬 The first and second person in Lysias |  |
 | *Feb 5*, *Feb 7*, *Feb 9* | The present indicative | 🔬 The present indicative in Lysias | Review |  |
 
 ## Indirect statement

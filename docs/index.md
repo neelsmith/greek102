@@ -7,8 +7,9 @@ has_children: true
 
 # Greek 102-01, S'24: home page
 
+## Announcements
 
-Welcome back!
+- **Monday, Jan. 29**: in-class assessment on participles (recognizing tense and voice, and what principal part the participle is built from)
 
 ## Week at a glance: Jan. 24 - 26
 
