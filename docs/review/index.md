@@ -17,8 +17,8 @@ We will begin the semester by reviewing the following three topics, including in
    - the forms of first declension nouns like γνώμη (section 13.2.2.4 p. 169)
    - the forms of first and second declension adjectives ("2-1-2" adjectives) are summarized in section 13.2.2.7. *Note* that ἄδικος, ἄδικον has only *two* endings for each case and number: masculine and feminine forms are identical (e.g., in the nominative singular, masculine and feminine are both ἄδικος, neuter is ἄδικον). *Therefore you will only see second-declension endings on a two-ending adjective*.
 3. **declension of participles**. Assessment: correctly form the attributive expressions "the one committing hubris" ὁ ὑβρίζων and "the one who committed hubris" ὁ ὑβρίσας  in any or all forms. References to review in your textbook:
-   - the forms of the article (section 13.2.2.3, p. 159)
-   - the forms of the present active participle (section 13.4.2.2 p. 172). Recall that the present active participle is a 3-1-3 adjective, using third-declension endings for masculine and neuter, and first-declension endings for the feminine forms. (As always, look at the genitive singular ending to figure out the declension.)
+   - the [forms of the article](https://hellenike.github.io/textbook/review/module2-review/grammar/) (section 13.2.2.3, p. 159)
+   - the forms of the [present active participle](https://hellenike.github.io/textbook/review/module3-review/grammar/) (section 13.4.2.2 p. 172). Recall that the present active participle is a 3-1-3 adjective, using third-declension endings for masculine and neuter, and first-declension endings for the feminine forms. (As always, look at the genitive singular ending to figure out the declension.)
    - the forms of the aorist active participle, summarized here:
 
 
