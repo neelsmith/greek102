@@ -1,6 +1,8 @@
 τὸ ὄνομα ____________________
 
 
+
+
 **Instructions**: For each of the following participles, please identify:
 
 1. tense
@@ -17,3 +19,6 @@ Example: given ποιήσαντος, your answer would be *aorist active from t
 4. πεπραγμένος
 5. ποιούμενος
 
+Total points possible: 20. Satisfactory: 18+
+
+Last date for revision/retaking: Friday, Feb. 9

@@ -9,6 +9,7 @@ has_children: true
 
 ## Announcements
 
+- Initial [schedule of CBL sections](./CBL/) available online
 - **Monday, Jan. 29**: in-class assessment on participles (recognizing tense and voice, and what principal part the participle is built from)
 - **Friday, Feb. 2**: in-class assessment on participles (fully identifying forms with tense, voice, gender, case and number, and what principal part the participle is built from)
 
