@@ -5,7 +5,7 @@ Welcome back!
 Introducing the [perfect participle](../classes/pftptcpl/)
 
 🔬 The [participle in Lysias](../classes/ptcpls-lysias/)
-[Participles as adjectives](../classes/ptcpls-substantives/)
+✏️ [Participles](../classes/ptcpls-substantives/)  as adjectives
 Introducing the [first and second persons](../classes/first-second/)
 
 
