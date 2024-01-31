@@ -11,7 +11,7 @@ has_children: true
 
 - Initial [schedule of CBL sections](./CBL/) available online
 - **Monday, Jan. 29**: in-class assessment on participles (recognizing tense and voice, and what principal part the participle is built from)
-- **Friday, Feb. 2**: in-class assessment on participles (fully identifying forms with tense, voice, gender, case and number, and what principal part the participle is built from)
+- **Friday, Feb. 2**: practice assessment on participles (fully identifying forms with tense, voice, gender, case and number, and what principal part the participle is built from); in-class assessment on **Monday, Feb. 5**
 
 ## Week at a glance: Jan. 29 - Feb. 2
 
@@ -23,7 +23,7 @@ We continue to review verbal forms and constructions from Greek 101, and introdu
 
 - Monday: in-class assessment on tense and voice of participles.
 - Wednesday: written homework assignment.
-- Friday: in-class assessment on full form of participles.
+- Friday: practice assessment on full form of participles.
 
 ### CBL
 
