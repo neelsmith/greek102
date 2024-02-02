@@ -9,7 +9,7 @@ Introducing the [perfect participle](../classes/pftptcpl/)
 Introducing the [first and second persons](../classes/first-second/)
 
 
-🔬  The first and second person in Lysias
+🔬  The [first and second person](../classes/first-second-lysias/) in Lysias
 
 The present indicative
 🔬 The present indicative in Lysias
