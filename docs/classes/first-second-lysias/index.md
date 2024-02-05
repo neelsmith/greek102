@@ -17,7 +17,7 @@ nav_order: 6
 
 
 
-Identify the verb forms in the following selection from Lysias 1, section 16:
+Identify the verb forms in the following selection from Lysias 1, section 16, a converstaion between Euphiletos and his wife:
 
 ἐγὼ ὠργιζόμην καὶ ἐκέλευον αὐτὴν ἀπιέναι.
 
@@ -25,7 +25,7 @@ Identify the verb forms in the following selection from Lysias 1, section 16:
 
 (She said:)
 
-πειρᾷς ἐνταῦθα τὴν παιδίσκην καὶ πρότερον μεθύων εἷλκες αὐτήν.
+ἐπείρας ἐνταῦθα τὴν παιδίσκην καὶ πρότερον μεθύων εἷλκες αὐτήν.
 
 κἀγὼ μὲν ἐγέλων..
 

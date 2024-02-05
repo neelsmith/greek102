@@ -17,7 +17,7 @@ has_children: true
 
 ### Overview
 
-We begin to work with first and second person forms.
+We begin to work with first and second person forms, and introduce the present indicative.
 
 
 ### CBL
