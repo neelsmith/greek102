@@ -16,3 +16,10 @@ has_children: true
 ## Week at a glance: Feb. 5 - Feb. 9
 
 ### Overview
+
+We begin to work with first and second person forms.
+
+
+### CBL
+
+No CBL meeting: instead, attend your scheduled class visit to Worcester East Middle School!
