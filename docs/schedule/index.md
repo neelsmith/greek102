@@ -23,7 +23,7 @@ Deadlines to note:
 | ---: | :--- | :--- | :--- | :--- |
 | *Jan 22*, *Jan 24*, *Jan 26* | *no class* | Welcome back! | Introducing the [perfect participle](../classes/pftptcpl/) |  |
 | *Jan 29*, *Jan 31*, *Feb 2* | 🔬 The [participle in Lysias](../classes/ptcpls-lysias/) | ✏️ [Participles](../classes/ptcpls-substantives/)  as adjectives | Introducing the [first and second persons](../classes/first-second/) |  |
-| *Feb 5*, *Feb 7*, *Feb 9* | 🔬  The [first and second person](../classes/first-second-lysias/) in Lysias | The present indicative | 🔬 The present indicative in Lysias |  |
+| *Feb 5*, *Feb 7*, *Feb 9* | 🔬  Participles: [practice and review](../classes/participles-practice/) | The [first and second person](../classes/first-second-lysias/) in Lysias | The present indicative |  |
 
 ## Indirect statement
 

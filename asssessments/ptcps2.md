@@ -1,9 +1,5 @@
 τὸ ὄνομα ____________________
 
-
-
-## Practice assessment
-
 **Instructions**: For each of the following participles, please identify its form fully:
 
 1. tense, voice, gender, case, number
@@ -18,3 +14,8 @@ Example: given ποιήσαντος, your answer would be *aorist, active, masc
 3. διαγενομένου
 4. πεπραγμένος
 5. ποιούμενος
+
+
+Total points possible: 35. Satisfactory: 32
+
+Last date for revision/retaking: Friday, Feb. 16.
