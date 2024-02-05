@@ -8,4 +8,4 @@ nav_order: 5
 
 # Participles:  practice and review
 
-TBA
+Review for in-class assessment identifying forms of participles. We'll complete review of last week's written assignment in class.
