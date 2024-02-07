@@ -9,6 +9,8 @@ has_children: true
 
 ## Announcements
 
+
+- **Feb. 12**: in-class assessment: synopses.
 - **Feb. 2**: review/tutoring sessions are available on Sundays from 4:00-4:45 in Fenwick 420, beginning Feb. 4.
 - **Friday, Feb. 2**: practice assessment on participles (fully identifying forms with tense, voice, gender, case and number, and what principal part the participle is built from); in-class assessment on **Monday, Feb. 5**
 
@@ -17,7 +19,11 @@ has_children: true
 
 ### Overview
 
-We begin to work with first and second person forms, and introduce the present indicative.
+We begin to work with first and second person forms, and introduce the present indicative. We learn what a synopsis is, and practice using synopses as a way to review forms.
+
+### Assessments
+
+On Friday, we'll practice an in-class assessment on a synopsis of κελεύω, before taking an assessment on Monday.
 
 
 ### CBL
