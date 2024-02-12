@@ -8,6 +8,23 @@ nav_order: 16
 # Previous weekly summaries
 
 
+## Week at a glance: Feb. 5 - Feb. 9
+
+### Overview
+
+We begin to work with first and second person forms, and introduce the present indicative. We learn what a synopsis is, and practice using synopses as a way to review forms.
+
+### Assessments
+
+On Friday, we'll practice an in-class assessment on a synopsis of κελεύω, before taking an assessment on Monday.
+
+
+### CBL
+
+No CBL meeting: instead, attend your scheduled class visit to Worcester East Middle School!
+
+
+
 ## Week at a glance: Jan. 29 - Feb. 2
 
 ### Overview
