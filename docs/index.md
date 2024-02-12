@@ -15,17 +15,17 @@ has_children: true
 - **Friday, Feb. 2**: practice assessment on participles (fully identifying forms with tense, voice, gender, case and number, and what principal part the participle is built from); in-class assessment on **Monday, Feb. 5**
 
 
-## Week at a glance: Feb. 5 - Feb. 9
+## Week at a glance: Feb. 12 - Feb. 16
 
 ### Overview
 
-We begin to work with first and second person forms, and introduce the present indicative. We learn what a synopsis is, and practice using synopses as a way to review forms.
+We continue to learn about indirect speech in Greek. We distinguish between indirect speech using the infinitive after verbs of speaking from indirect speech with the participle after verbs of perception.
 
 ### Assessments
 
-On Friday, we'll practice an in-class assessment on a synopsis of κελεύω, before taking an assessment on Monday.
-
+- Monday: synopsis of all three voices of the present, imperfect and aorist indicative in a given person and number.
+- Friday: pratice assessment in class: synopsis of all three voices of the present, imperfect and aorist indicative in a given person and number, together with all three voices of the infinitive for each tense.
 
 ### CBL
 
-No CBL meeting: instead, attend your scheduled class visit to Worcester East Middle School!
+Return to regular meeting times to begin work on lesson planning for class visit to Worcester East.
