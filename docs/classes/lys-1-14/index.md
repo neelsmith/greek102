@@ -17,3 +17,10 @@ Using the glosses below, and reading either the handout distributed in class or 
 
 
 ## Glosses
+
+- σιωπάω (regular principal parts) : "keep silence"
+- ἀπο + σβέννυμι, σβέσω, ἔσβεσα, ἔσβηκα, ἐσβέσθην : "extinguish, put out"
+- ἐν + ἅπτω, ἅψω, ἧψα, -, ἧμμαι, ἥφθην : "touch; kindle, set on fire (by touching)"
+- ψιμυθιόω (rare! ἐψιμυθιῶσθαι is probably a *perfect* passive infinitive): "paint with white lead; put on makeup (of white lead)"
+- θνῄσκω, θανοῦμαι, ἔθανον, τέθνηκα, -, -, "die"; perfect tense, "be dead"
+
