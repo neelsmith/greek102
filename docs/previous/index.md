@@ -8,6 +8,21 @@ nav_order: 16
 # Previous weekly summaries
 
 
+## Week at a glance: Feb. 12 - Feb. 16
+
+### Overview
+
+We continue to learn about indirect speech in Greek. We distinguish between indirect speech using the infinitive after verbs of speaking from indirect speech with the participle after verbs of perception.
+
+### Assessments
+
+- Monday: synopsis of all three voices of the present, imperfect and aorist indicative in a given person and number.
+- Friday: pratice assessment in class: synopsis of all three voices of the present, imperfect and aorist indicative in a given person and number, together with all three voices of the infinitive for the present and aorist.
+
+### CBL
+
+Return to regular meeting times to begin work on lesson planning for class visit to Worcester East.
+
 ## Week at a glance: Feb. 5 - Feb. 9
 
 ### Overview
