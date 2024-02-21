@@ -30,7 +30,7 @@ Deadlines to note:
 | Dates | Monday | Wednesday | Friday | Notes |
 | ---: | :--- | :--- | :--- | :--- |
 | *Feb 12*, *Feb 14*, *Feb 16* | 🔬 Verbs of speaking with [the infinitive](../classes/indirect-infin/) | Verbs of perception with [the participle](../classes/indirect-ptcpl/) | [Indirect speech](../classes/lys-1-14/) in Lysias |  |
-| *Feb 19*, *Feb 21*, *Feb 23* | Indirect speech with subordination: ὡς, ὅτι with the indicative | 🔬 The [optative mood](../classes/optative/)  | Workshop module 4 mastery assignment |  |
+| *Feb 19*, *Feb 21*, *Feb 23* | Indirect speech with subordination: ὡς, ὅτι with the indicative | 🔬 The [optative mood](../classes/optative/)  | Workshop module 4 [mastery assignment](../classes/mod4mastery/) |  |
 | *Feb 26*, *Feb 28*, *Mar 1* | Workshop module 4 reading assignment | Workshop module 4 composition assignment | Review | **Mon**: *📜 Module 4: mastery.* **Wed**: *📜 Module 4: reading.* **Fri**: *📜 Module 4: composition.* **Fri**: *Last class before spring break.* |
 | *Mar 4*, *Mar 6*, *Mar 8* | ***spring break*** | ***spring break*** | ***spring break*** |  |
 
