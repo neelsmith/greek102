@@ -38,17 +38,17 @@ Deadlines to note:
 
 | Dates | Monday | Wednesday | Friday | Notes |
 | ---: | :--- | :--- | :--- | :--- |
-| *Mar 11*, *Mar 13*, *Mar 15* | class | class | class | **Fri**: *📜 Module 5: mastery.* **Mon**: *Class resumes.* |
-| *Mar 18*, *Mar 20*, *Mar 22* | class | class | class | **Wed**: *📜 Module 5:reading.* |
-| *Mar 25*, *Mar 27*, *Mar 29* | class | class | *Easter break* | **Mon**: *📜 Module 5: composition.* **Wed**: *Last class before Easter break.* |
+| *Mar 11*, *Mar 13*, *Mar 15* | Introduction to relative clauses | Introduction to the subjunctive mood | class | **Mon**: *Class resumes.* |
+| *Mar 18*, *Mar 20*, *Mar 22* | Purpose clauses | Introduction to conditions | *No class today: CANE annual meeting* |  |
+| *Mar 25*, *Mar 27*, *Mar 29* | Expressing purpose with the future participle | Indirect questions | *Easter break* | **Wed**: *Last class before Easter break.* |
 
 ## Reading Greek
 
 | Dates | Monday | Wednesday | Friday | Notes |
 | ---: | :--- | :--- | :--- | :--- |
-| *Apr 1*, *Apr 3*, *Apr 5* | *Easter break* | class | class | **Wed**: *Class resumes.* |
-| *Apr 8*, *Apr 10*, *Apr 12* | class | class | class |  |
+| *Apr 1*, *Apr 3*, *Apr 5* | *Easter break* | Module 5: mastery assignment | Module 5: analysis and translation assignment | **Fri**: *📜 Module 5: mastery.* **Wed**: *Class resumes.* |
+| *Apr 8*, *Apr 10*, *Apr 12* | Module 5: composition | class | class | **Mon**: *📜 Module 5:reading.* **Wed**: *📜 Module 5: composition.* |
 | *Apr 15*, *Apr 17*, *Apr 19* | class | class | class |  |
-| *Apr 22*, *Apr 24*, *Apr 26* | class | *No class: Academic Conference* | class | **Tue**: *📜 Translation assignment due.* **Wed**: *Academic Conference.* |
+| *Apr 22*, *Apr 24*, *Apr 26* | class | *No class: Academic Conference* | class | **Fri**: *📜 Translation assignment due.* **Wed**: *Academic Conference.* |
 | *Apr 29*, *May 1*, *May 3* | class | class | class |  |
 | *May 6*, *May 8*, *May 10* | Reflection and planning beyond Greek 102 | *Study period* | *Exam period* | **Mon**: *Last class.* |
