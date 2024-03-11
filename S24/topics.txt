@@ -40,8 +40,8 @@ Review
 
 
 Introduction to relative clauses
-Introduction to the subjunctive mood
-class
+Introduction to the [subjunctive mood](../classes/subjunctive/)
+Subjunctive, part 2
 
 Purpose clauses
 Introduction to conditions

@@ -12,6 +12,8 @@ nav_order: 17
 
 
 
+- **Mon. Feb. 26**: Module 4 portfolio assignment: [mastery of forms and syntax](./classes/mod4mastery/) due.
+- **Mon., Feb 26**, 3:00 pm in Hogan Suite A: Dr. Joanna Kenty, "Civic Engagement Across Disciplines: Becoming *Homines pro aliis*"
 - **Feb. 12**: in-class assessment: synopses.
 - **Feb. 15**: I will not be available for regular drop-in hours on Thursday morning, Feb. 15. Please make an appointment to see me or stop by my office at another time.
 - **Feb. 19**: in-class assessment that we'll practice on Friday, Feb. 16: synopsis of indicative forms together with all infinitives of the present and aorist.
