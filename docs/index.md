@@ -9,16 +9,14 @@ has_children: true
 
 ## Announcements
 
-- **Mon. Feb. 26**: Module 4 portfolio assignment: [mastery of forms and syntax](./classes/mod4mastery/) due.
-- **Mon., Feb 26**, 3:00 pm in Hogan Suite A: Dr. Joanna Kenty, "Civic Engagement Across Disciplines: Becoming *Homines pro aliis*"
 
-## Week at a glance: Feb. 19 - Feb. 23
+## Week at a glance: Mar. 11 - Mar. 15
 
 ### Overview
 
-We learn a third form of indirect statement, using finite verbs introduced by the conjunction ὅτι or ὡς.
+
 
 ### Assessments
 
-- Wednesday: synopsis including present, imperfect and aorist indicative, present and aorist infinitives, and present, aorist an perfect participles.
+- Friday: the relative pronoun.
 

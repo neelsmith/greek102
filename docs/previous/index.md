@@ -8,6 +8,21 @@ nav_order: 16
 # Previous weekly summaries
 
 
+
+
+## Week at a glance: Feb. 19 - Feb. 23
+
+### Overview
+
+We learn a third form of indirect statement, using finite verbs introduced by the conjunction ὅτι or ὡς.
+
+### Assessments
+
+- Wednesday: synopsis including present, imperfect and aorist indicative, present and aorist infinitives, and present, aorist an perfect participles.
+
+
+
+
 ## Week at a glance: Feb. 12 - Feb. 16
 
 ### Overview
