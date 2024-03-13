@@ -9,6 +9,8 @@ has_children: true
 
 ## Announcements
 
+- Fri., Mar. 15: in-class assessment. (The relative pronoun.)
+- Mon., Mar. 18: in-class assessment. (Synopsis including subjunctive forms)
 - Friday, Mar. 22: no class meeting today (CANE annual meeting)
 
 ## Week at a glance: Mar. 11 - Mar. 15
@@ -20,4 +22,5 @@ We introduce the relative pronoun and the subjunctive mood.
 ### Assessments
 
 - Friday: the relative pronoun.
+
 
