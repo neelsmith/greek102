@@ -9,8 +9,9 @@ has_children: true
 
 ## Announcements
 
+- For Monday, Mar. 18: please bring written [assignment for Friday](./classes/subj+review/), Mar. 16, as well as for [Monday](./classes/purpose/), Mar. 18.
 - Fri., Mar. 15: in-class assessment. (The relative pronoun.)
-- Mon., Mar. 18: in-class assessment. (Synopsis including subjunctive forms)
+- Wed., Mar. 20: in-class assessment. (Synopsis including subjunctive forms)
 - Friday, Mar. 22: no class meeting today (CANE annual meeting)
 
 ## Week at a glance: Mar. 11 - Mar. 15
