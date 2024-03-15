@@ -38,8 +38,8 @@ Deadlines to note:
 
 | Dates | Monday | Wednesday | Friday | Notes |
 | ---: | :--- | :--- | :--- | :--- |
-| *Mar 11*, *Mar 13*, *Mar 15* | Introduction to relative clauses | Introduction to the [subjunctive mood](../classes/subjunctive/) | Subjunctive, part 2 | **Mon**: *Class resumes.* |
-| *Mar 18*, *Mar 20*, *Mar 22* | Purpose clauses | Introduction to conditions | *No class today: CANE annual meeting* |  |
+| *Mar 11*, *Mar 13*, *Mar 15* | Introduction to relative clauses | Introduction to the [subjunctive mood](../classes/subjunctive/) | [Subjunctive, part 2](../classes/subj+review/) | **Mon**: *Class resumes.* |
+| *Mar 18*, *Mar 20*, *Mar 22* | [Purpose clauses](../classes/purpose/) | Introduction to conditions | *No class today: CANE annual meeting* |  |
 | *Mar 25*, *Mar 27*, *Mar 29* | Expressing purpose with the future participle | Indirect questions | *Easter break* | **Wed**: *Last class before Easter break.* |
 
 ## Reading Greek
