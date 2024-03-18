@@ -1,13 +1,13 @@
 ---
 layout: page
-title: "Portfolio assignment: module 4 reading"
+title: "Portfolio assignment: module 4 composition"
 parent: "Schedule"
 nav_order: 17
 ---
 
 
 
-# Portfolio assignment: module 4 reading
+# Portfolio assignment: module 4 composition
 
 
 ## Overview 
