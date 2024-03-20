@@ -40,7 +40,7 @@ Deadlines to note:
 | ---: | :--- | :--- | :--- | :--- |
 | *Mar 11*, *Mar 13*, *Mar 15* | Introduction to relative clauses | Introduction to the [subjunctive mood](../classes/subjunctive/) | [Subjunctive, part 2](../classes/subj+review/) | **Mon**: *Class resumes.* |
 | *Mar 18*, *Mar 20*, *Mar 22* | [Purpose clauses](../classes/purpose/) | [Review composition](../classes/composition/) | *No class today: CANE annual meeting* |  |
-| *Mar 25*, *Mar 27*, *Mar 29* | Introduction to conditions | Expressing purpose with the future participle | *Easter break* | **Wed**: *Last class before Easter break.* |
+| *Mar 25*, *Mar 27*, *Mar 29* | Expressing purpose with the [future participle](../classes/future/) | Introduction to conditions | *Easter break* | **Wed**: *Last class before Easter break.* |
 
 ## Reading Greek
 
