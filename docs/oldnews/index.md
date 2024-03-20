@@ -10,7 +10,7 @@ nav_order: 17
 ## Announcements
 
 
-
+- For Monday, Mar. 18: please bring written [assignment for Friday](./classes/subj+review/), Mar. 16, as well as for [Monday](./classes/purpose/), Mar. 18.
 - Fri., Mar. 15: in-class assessment. (The relative pronoun.)
 - **Mon. Feb. 26**: Module 4 portfolio assignment: [mastery of forms and syntax](../classes/mod4mastery/) due.
 - **Mon., Feb 26**, 3:00 pm in Hogan Suite A: Dr. Joanna Kenty, "Civic Engagement Across Disciplines: Becoming *Homines pro aliis*"
